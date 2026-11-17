@@ -1,0 +1,4160 @@
+{
+  "title": "Try Out UH-3 Sejarah",
+  "packages": [
+    {
+      "id": 1,
+      "name": "Paket 01",
+      "questions": [
+        {
+          "id": "p1-q1",
+          "number": 1,
+          "topic": "Faktor eksternal pergerakan nasional",
+          "type": "pg",
+          "stem": "Pada awal abad ke-20, bangsa Asia mulai memperoleh inspirasi dari keberhasilan negara lain melawan dominasi Barat. Peristiwa manakah yang menjadi faktor eksternal kebangkitan nasional Indonesia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kemenangan Jepang atas Rusia pada 1905",
+              "correct": true,
+              "feedback": "Kemenangan Jepang atas Rusia menunjukkan bahwa bangsa Asia mampu mengalahkan kekuatan Eropa."
+            },
+            {
+              "id": "B",
+              "text": "Berdirinya Budi Utomo pada 1908",
+              "correct": false,
+              "feedback": "Budi Utomo merupakan perkembangan dari dalam Indonesia, sehingga termasuk faktor internal."
+            },
+            {
+              "id": "C",
+              "text": "Pelaksanaan Kongres Pemuda II pada 1928",
+              "correct": false,
+              "feedback": "Kongres Pemuda II merupakan bagian dari proses pergerakan di Indonesia, bukan pengaruh luar."
+            },
+            {
+              "id": "D",
+              "text": "Kapitulasi Kalijati pada 1942",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi jauh setelah awal kebangkitan nasional dan bukan faktor pendorong awal."
+            }
+          ]
+        },
+        {
+          "id": "p1-q2",
+          "number": 2,
+          "topic": "Nasionalisme India – ajaran Mahatma Gandhi",
+          "type": "pg",
+          "stem": "Perhatikan urutan tindakan berikut: menolak kekerasan, menghentikan aktivitas ekonomi melalui pemogokan, tidak bekerja sama dengan pemerintah kolonial, dan memboikot barang impor. Istilah yang tepat secara berurutan adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hartal – Ahimsa – Swadeshi – Satyagraha",
+              "correct": false,
+              "feedback": "Urutan ini menukar makna istilah: Ahimsa adalah anti-kekerasan dan Hartal adalah pemogokan."
+            },
+            {
+              "id": "B",
+              "text": "Satyagraha – Swadeshi – Ahimsa – Hartal",
+              "correct": false,
+              "feedback": "Satyagraha bukan istilah untuk anti-kekerasan secara umum, sedangkan Swadeshi berkaitan dengan kemandirian produk."
+            },
+            {
+              "id": "C",
+              "text": "Swadeshi – Satyagraha – Hartal – Ahimsa",
+              "correct": false,
+              "feedback": "Swadeshi adalah gerakan memakai produk sendiri, bukan istilah pertama untuk prinsip anti-kekerasan."
+            },
+            {
+              "id": "D",
+              "text": "Ahimsa – Hartal – Satyagraha – Swadeshi",
+              "correct": true,
+              "feedback": "Ahimsa berarti anti-kekerasan; Hartal adalah pemogokan; Satyagraha menekankan keteguhan pada kebenaran dan non-kooperasi; Swadeshi mengutamakan produk sendiri."
+            }
+          ]
+        },
+        {
+          "id": "p1-q3",
+          "number": 3,
+          "topic": "Nasionalisme Tiongkok – San Min Chu I",
+          "type": "pg",
+          "stem": "Tokoh nasionalis Tiongkok yang dikenal sebagai pencetus ajaran San Min Chu I adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mustafa Kemal Pasha",
+              "correct": false,
+              "feedback": "Mustafa Kemal Pasha memimpin gerakan nasionalisme dan modernisasi Turki."
+            },
+            {
+              "id": "B",
+              "text": "Jose Rizal",
+              "correct": false,
+              "feedback": "Jose Rizal merupakan tokoh kebangkitan nasional Filipina."
+            },
+            {
+              "id": "C",
+              "text": "Sun Yat-sen",
+              "correct": true,
+              "feedback": "Sun Yat-sen dikenal sebagai tokoh nasionalis Tiongkok dan pencetus gagasan San Min Chu I."
+            },
+            {
+              "id": "D",
+              "text": "Mahatma Gandhi",
+              "correct": false,
+              "feedback": "Gandhi merupakan tokoh perjuangan kemerdekaan India."
+            }
+          ]
+        },
+        {
+          "id": "p1-q4",
+          "number": 4,
+          "topic": "Perubahan strategi perjuangan setelah 1908",
+          "type": "pg",
+          "stem": "Perbedaan paling mendasar antara perjuangan sebelum dan sesudah 1908 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjuangan yang sepenuhnya mengandalkan kekuatan bangsawan",
+              "correct": false,
+              "feedback": "Sesudah 1908, golongan terpelajar dan organisasi modern semakin berperan."
+            },
+            {
+              "id": "B",
+              "text": "Perjuangan nasional melalui organisasi yang dipimpin kaum terpelajar",
+              "correct": true,
+              "feedback": "Sesudah 1908 perjuangan semakin nasional, dipimpin kaum terpelajar, dan dilakukan melalui organisasi."
+            },
+            {
+              "id": "C",
+              "text": "Perlawanan lokal yang dipimpin raja dengan peperangan",
+              "correct": false,
+              "feedback": "Ciri tersebut lebih menggambarkan perjuangan sebelum 1908."
+            },
+            {
+              "id": "D",
+              "text": "Perjuangan yang hanya berpusat di desa dan pedalaman",
+              "correct": false,
+              "feedback": "Pusat perjuangan sesudah 1908 semakin berkembang di kota-kota."
+            }
+          ]
+        },
+        {
+          "id": "p1-q5",
+          "number": 5,
+          "topic": "Budi Utomo dan Sarekat Islam",
+          "type": "pg",
+          "stem": "Perbedaan orientasi gerakan Budi Utomo dan Sarekat Islam yang paling tepat adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Budi Utomo: pendidikan dan budaya; Sarekat Islam: ekonomi, sosial, dan politik",
+              "correct": true,
+              "feedback": "Budi Utomo berorientasi pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dari kepentingan ekonomi dan meluas ke bidang sosial-politik."
+            },
+            {
+              "id": "B",
+              "text": "Budi Utomo: perjuangan bersenjata; Sarekat Islam: pendidikan Barat",
+              "correct": false,
+              "feedback": "Keduanya bukan organisasi yang dibedakan oleh pasangan orientasi tersebut."
+            },
+            {
+              "id": "C",
+              "text": "Budi Utomo: komunisme; Sarekat Islam: pendidikan perempuan",
+              "correct": false,
+              "feedback": "Pasangan ini tidak sesuai dengan orientasi utama kedua organisasi."
+            },
+            {
+              "id": "D",
+              "text": "Budi Utomo: diplomasi luar negeri; Sarekat Islam: gerakan militer",
+              "correct": false,
+              "feedback": "Keduanya berkembang sebagai organisasi pergerakan, bukan organisasi militer."
+            }
+          ]
+        },
+        {
+          "id": "p1-q6",
+          "number": 6,
+          "topic": "Klasifikasi organisasi pergerakan",
+          "type": "pg",
+          "stem": "Pasangan organisasi dan karakteristik yang tepat adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Taman Siswa – gerakan militer; Muhammadiyah – perdagangan; Indische Partij – pendidikan pesantren",
+              "correct": false,
+              "feedback": "Ketiga bidang tersebut tidak sesuai dengan fokus utama organisasi yang disebutkan."
+            },
+            {
+              "id": "B",
+              "text": "NU – organisasi dagang; Sarekat Islam – sekolah nasional; Budi Utomo – partai komunis",
+              "correct": false,
+              "feedback": "Klasifikasi ini tidak sesuai dengan sejarah dan orientasi organisasi tersebut."
+            },
+            {
+              "id": "C",
+              "text": "Perhimpunan Indonesia – organisasi kerajaan; PKI – organisasi pendidikan; Budi Utomo – gerakan militer",
+              "correct": false,
+              "feedback": "Ketiga pasangan tersebut tidak menggambarkan karakter organisasi pergerakan."
+            },
+            {
+              "id": "D",
+              "text": "Taman Siswa – pendidikan nasional; Muhammadiyah – pembaruan Islam; Indische Partij – politik kebangsaan",
+              "correct": true,
+              "feedback": "Taman Siswa bergerak dalam pendidikan, Muhammadiyah dalam pembaruan sosial-keagamaan, dan Indische Partij dalam politik kebangsaan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q7",
+          "number": 7,
+          "topic": "Makna berdirinya Budi Utomo",
+          "type": "pg",
+          "stem": "Tanggal 20 Mei diperingati sebagai Hari Kebangkitan Nasional karena ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai berakhirnya seluruh pemerintahan kolonial Belanda",
+              "correct": false,
+              "feedback": "Kekuasaan kolonial Belanda berakhir pada 1942 setelah menyerah kepada Jepang."
+            },
+            {
+              "id": "B",
+              "text": "Menandai dimulainya perjuangan bersenjata di seluruh wilayah Indonesia",
+              "correct": false,
+              "feedback": "Budi Utomo justru menjadi tonggak pergerakan melalui organisasi, bukan awal perang serentak."
+            },
+            {
+              "id": "C",
+              "text": "Menjadi tonggak berkembangnya organisasi modern yang membangkitkan kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Budi Utomo menjadi simbol awal kebangkitan melalui organisasi modern dan kesadaran yang lebih terorganisasi."
+            },
+            {
+              "id": "D",
+              "text": "Menandai proklamasi kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Proklamasi kemerdekaan berlangsung pada 17 Agustus 1945."
+            }
+          ]
+        },
+        {
+          "id": "p1-q8",
+          "number": 8,
+          "topic": "Tiga Serangkai – Indische Partij",
+          "type": "pg",
+          "stem": "Tiga tokoh yang dikenal sebagai Tiga Serangkai pendiri Indische Partij adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sutomo, Wahidin Sudirohusodo, dan Gunawan Mangunkusumo",
+              "correct": false,
+              "feedback": "Tokoh-tokoh tersebut berkaitan dengan lingkungan Budi Utomo, bukan Tiga Serangkai."
+            },
+            {
+              "id": "B",
+              "text": "E.F.E. Douwes Dekker, dr. Cipto Mangunkusumo, dan Suwardi Suryaningrat",
+              "correct": true,
+              "feedback": "Tiga Serangkai terdiri atas Douwes Dekker, Cipto Mangunkusumo, dan Suwardi Suryaningrat."
+            },
+            {
+              "id": "C",
+              "text": "Soekarno, Mohammad Hatta, dan Sutan Sjahrir",
+              "correct": false,
+              "feedback": "Ketiganya merupakan tokoh penting pada periode berikutnya, bukan Tiga Serangkai pendiri Indische Partij."
+            },
+            {
+              "id": "D",
+              "text": "Ki Bagus Hadikusumo, Ahmad Dahlan, dan Hasyim Asy'ari",
+              "correct": false,
+              "feedback": "Nama-nama tersebut berkaitan dengan perkembangan organisasi Islam, bukan pendiri Indische Partij."
+            }
+          ]
+        },
+        {
+          "id": "p1-q9",
+          "number": 9,
+          "topic": "Perkembangan Sarekat Islam",
+          "type": "pg",
+          "stem": "Faktor utama yang mendorong Sarekat Islam memperoleh dukungan masyarakat secara luas adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Identitas Islam yang menyatukan anggota serta perhatian pada kepentingan ekonomi rakyat",
+              "correct": true,
+              "feedback": "Identitas keislaman menjadi pemersatu, sementara kepentingan ekonomi membuat organisasi dekat dengan kebutuhan masyarakat."
+            },
+            {
+              "id": "B",
+              "text": "Keanggotaan yang hanya terbatas pada bangsawan Jawa",
+              "correct": false,
+              "feedback": "Sarekat Islam justru berkembang sebagai organisasi dengan dukungan massa yang luas."
+            },
+            {
+              "id": "C",
+              "text": "Kewajiban mengikuti pendidikan militer kolonial",
+              "correct": false,
+              "feedback": "Pendidikan militer kolonial bukan faktor utama perluasan dukungan Sarekat Islam."
+            },
+            {
+              "id": "D",
+              "text": "Dukungan penuh pemerintah kolonial terhadap kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Sarekat Islam berkembang dalam situasi kolonial dan bukan karena dukungan pemerintah untuk kemerdekaan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q10",
+          "number": 10,
+          "topic": "Perpecahan Sarekat Islam",
+          "type": "pg",
+          "stem": "Faktor utama yang memicu perpecahan Sarekat Islam menjadi SI Putih dan SI Merah adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perselisihan tentang penggunaan bahasa daerah dalam kongres",
+              "correct": false,
+              "feedback": "Perbedaan bahasa bukan penyebab utama perpecahan SI Putih dan SI Merah."
+            },
+            {
+              "id": "B",
+              "text": "Perbedaan pendapat mengenai lokasi ibu kota Republik Indonesia",
+              "correct": false,
+              "feedback": "Persoalan ibu kota Republik Indonesia tidak menjadi pemicu perpecahan Sarekat Islam."
+            },
+            {
+              "id": "C",
+              "text": "Persaingan untuk menguasai perdagangan rempah di Maluku",
+              "correct": false,
+              "feedback": "Persaingan perdagangan rempah bukan faktor utama perpecahan internal Sarekat Islam."
+            },
+            {
+              "id": "D",
+              "text": "Perbedaan ideologi dan pengaruh sosialisme-komunisme dalam organisasi",
+              "correct": true,
+              "feedback": "Perbedaan orientasi ideologi memisahkan kelompok yang mempertahankan garis Islam dengan kelompok yang dipengaruhi sosialisme-komunisme."
+            }
+          ]
+        },
+        {
+          "id": "p1-q11",
+          "number": 11,
+          "topic": "Muhammadiyah dan Nahdlatul Ulama",
+          "type": "pg",
+          "stem": "Perbedaan fokus gerakan Muhammadiyah dan Nahdlatul Ulama yang paling tepat adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammadiyah berfokus pada nasionalisme Tiongkok; NU pada nasionalisme India",
+              "correct": false,
+              "feedback": "Keduanya merupakan organisasi Islam di Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Muhammadiyah menolak pendidikan; NU hanya bergerak dalam politik luar negeri",
+              "correct": false,
+              "feedback": "Keduanya berperan dalam kehidupan sosial dan pendidikan umat."
+            },
+            {
+              "id": "C",
+              "text": "Muhammadiyah menekankan pembaruan pendidikan dan sosial; NU menjaga tradisi keilmuan pesantren dan Aswaja",
+              "correct": true,
+              "feedback": "Muhammadiyah dikenal dengan pembaruan pendidikan dan sosial-keagamaan, sedangkan NU berakar kuat pada tradisi ulama dan pesantren."
+            },
+            {
+              "id": "D",
+              "text": "Muhammadiyah bergerak dalam militer; NU bergerak dalam perdagangan internasional",
+              "correct": false,
+              "feedback": "Kedua organisasi bukan organisasi militer atau perdagangan internasional."
+            }
+          ]
+        },
+        {
+          "id": "p1-q12",
+          "number": 12,
+          "topic": "Perkembangan gerakan pemuda 1915–1928",
+          "type": "pg",
+          "stem": "Kesimpulan yang tepat mengenai pergeseran gerakan pemuda dari 1915–1925 menuju 1926–1928 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dari perjuangan pendidikan menuju dukungan terhadap kolonialisme",
+              "correct": false,
+              "feedback": "Gerakan pemuda semakin menegaskan kesadaran kebangsaan, bukan mendukung kolonialisme."
+            },
+            {
+              "id": "B",
+              "text": "Dari identitas kedaerahan menuju persatuan dan identitas nasional Indonesia",
+              "correct": true,
+              "feedback": "Gerakan pemuda berkembang dari organisasi bercorak daerah menuju orientasi kebangsaan dan persatuan Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Dari persatuan nasional menuju pemisahan berdasarkan daerah",
+              "correct": false,
+              "feedback": "Arah perkembangan justru bergerak menuju persatuan nasional."
+            },
+            {
+              "id": "D",
+              "text": "Dari organisasi modern menuju perlawanan kerajaan",
+              "correct": false,
+              "feedback": "Gerakan pemuda berkembang melalui organisasi dan kongres, bukan kembali ke pola kerajaan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q13",
+          "number": 13,
+          "topic": "Isi ikrar Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Tiga pokok isi ikrar Sumpah Pemuda pada 28 Oktober 1928 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satu tanah air Indonesia, satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda menegaskan tanah air Indonesia, bangsa Indonesia, dan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Satu kerajaan, satu agama resmi, dan satu bahasa daerah",
+              "correct": false,
+              "feedback": "Rumusan Sumpah Pemuda tidak berbicara tentang pembentukan kerajaan atau penetapan agama resmi."
+            },
+            {
+              "id": "C",
+              "text": "Satu pulau, satu suku, dan satu pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Ikrar tersebut menekankan identitas nasional Indonesia, bukan kesatuan satu pulau atau suku."
+            },
+            {
+              "id": "D",
+              "text": "Satu wilayah Jawa, satu bangsa daerah, dan bahasa Belanda",
+              "correct": false,
+              "feedback": "Sumpah Pemuda menegaskan Indonesia sebagai tanah air dan bangsa serta Bahasa Indonesia sebagai bahasa persatuan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q14",
+          "number": 14,
+          "topic": "Kongres Pemuda I – Muhammad Yamin",
+          "type": "pg",
+          "stem": "Tokoh pembicara Kongres Pemuda I yang membahas kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soegondo Djojopoespito",
+              "correct": false,
+              "feedback": "Soegondo dikenal sebagai ketua PPPI dan Kongres Pemuda II."
+            },
+            {
+              "id": "B",
+              "text": "M. Tabrani",
+              "correct": false,
+              "feedback": "M. Tabrani memimpin komite penyelenggara yang merencanakan Kongres Pemuda I."
+            },
+            {
+              "id": "C",
+              "text": "Bahder Djohan",
+              "correct": false,
+              "feedback": "Bahder Djohan membahas kedudukan wanita dalam masyarakat Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Muhammad Yamin",
+              "correct": true,
+              "feedback": "Muhammad Yamin membawakan pembahasan tentang kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang."
+            }
+          ]
+        },
+        {
+          "id": "p1-q15",
+          "number": 15,
+          "topic": "Arti penting Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Arti penting Sumpah Pemuda bagi perjuangan bangsa Indonesia adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menetapkan Indonesia langsung menjadi negara merdeka",
+              "correct": false,
+              "feedback": "Kemerdekaan Indonesia baru diproklamasikan pada 17 Agustus 1945."
+            },
+            {
+              "id": "B",
+              "text": "Mengembalikan perjuangan ke kelompok kerajaan dan daerah",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru memperkuat orientasi nasional melampaui identitas kedaerahan."
+            },
+            {
+              "id": "C",
+              "text": "Memperkuat identitas nasional, persatuan, dan penggunaan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat identitas kebangsaan dan solidaritas lintas daerah serta menegaskan bahasa persatuan."
+            },
+            {
+              "id": "D",
+              "text": "Menghapus seluruh organisasi pemuda dan melarang kegiatan pendidikan",
+              "correct": false,
+              "feedback": "Sumpah Pemuda mendorong persatuan, bukan menghapus aktivitas organisasi dan pendidikan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q16",
+          "number": 16,
+          "topic": "Peran pers pada masa pergerakan",
+          "type": "pg",
+          "stem": "Kontribusi utama pers pada masa pergerakan nasional terhadap tumbuhnya nasionalisme adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menjadi alat utama untuk mengatur perdagangan rempah",
+              "correct": false,
+              "feedback": "Fungsi pers yang dibahas dalam pergerakan nasional berkaitan dengan informasi dan kesadaran kebangsaan."
+            },
+            {
+              "id": "B",
+              "text": "Menyebarkan gagasan kebangsaan, mengkritik kolonialisme, dan membangun kesadaran masyarakat",
+              "correct": true,
+              "feedback": "Pers menjadi sarana komunikasi, pendidikan politik, kritik kolonial, dan penyebaran gagasan nasionalisme."
+            },
+            {
+              "id": "C",
+              "text": "Menggantikan seluruh organisasi pergerakan dengan pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Pers mendukung perkembangan kesadaran dan mobilisasi pergerakan, bukan menggantikannya dengan pemerintahan kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Membatasi informasi agar masyarakat tidak mengetahui kondisi politik",
+              "correct": false,
+              "feedback": "Pers pergerakan justru memperluas informasi dan wawasan masyarakat."
+            }
+          ]
+        },
+        {
+          "id": "p1-q17",
+          "number": 17,
+          "topic": "Surat kabar De Express",
+          "type": "pg",
+          "stem": "Surat kabar radikal masa pergerakan yang mendapat perhatian pemerintah kolonial dan berkaitan dengan Indische Partij adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "De Express",
+              "correct": true,
+              "feedback": "De Express dikenal sebagai surat kabar radikal yang berkaitan dengan lingkungan Indische Partij dan mendapat perhatian pemerintah kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Bintang Hindia",
+              "correct": false,
+              "feedback": "Bintang Hindia merupakan surat kabar yang disebut dalam perkembangan pers, tetapi bukan jawaban indikator ini."
+            },
+            {
+              "id": "C",
+              "text": "Pewarta Prijaji",
+              "correct": false,
+              "feedback": "Pewarta Prijaji merupakan salah satu penerbitan bumiputra, bukan surat kabar yang dimaksud."
+            },
+            {
+              "id": "D",
+              "text": "Sinar Djawa",
+              "correct": false,
+              "feedback": "Sinar Djawa berperan menyebarkan gagasan pendidikan dan pergerakan, tetapi bukan nama surat kabar yang dimaksud pada indikator ini."
+            }
+          ]
+        },
+        {
+          "id": "p1-q18",
+          "number": 18,
+          "topic": "Fungsi pers dalam pergerakan nasional",
+          "type": "pg",
+          "stem": "Manakah rangkaian yang paling tepat menggambarkan fungsi pers dalam pergerakan nasional?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Membatasi pendidikan, menghapus organisasi, dan memperkuat sensor masyarakat",
+              "correct": false,
+              "feedback": "Tindakan tersebut bertentangan dengan fungsi pers sebagai penyebar informasi dan gagasan."
+            },
+            {
+              "id": "B",
+              "text": "Menggantikan kongres pemuda, membentuk tentara, dan mengatur pajak",
+              "correct": false,
+              "feedback": "Pers bukan lembaga kongres, militer, atau pemungut pajak."
+            },
+            {
+              "id": "C",
+              "text": "Mendukung monopoli kolonial, menutup diskusi, dan menghilangkan berita",
+              "correct": false,
+              "feedback": "Pers pergerakan justru digunakan untuk mengkritik ketidakadilan kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Menyebarkan informasi, menyampaikan kritik, dan memobilisasi kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Ketiga fungsi tersebut sesuai dengan peran pers sebagai media informasi, kritik, dan mobilisasi pergerakan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q19",
+          "number": 19,
+          "topic": "Wabah penyakit awal abad ke-20",
+          "type": "pg",
+          "stem": "Wabah penyakit menular yang menimbulkan banyak korban di Pulau Jawa pada 1910–1936 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Malaria pada 1960–1970",
+              "correct": false,
+              "feedback": "Periode tersebut berada di luar rentang wabah yang ditanyakan."
+            },
+            {
+              "id": "B",
+              "text": "Cacar pada 1880–1890",
+              "correct": false,
+              "feedback": "Periode tersebut tidak sesuai dengan data wabah pes 1910–1936 dalam materi."
+            },
+            {
+              "id": "C",
+              "text": "Pes",
+              "correct": true,
+              "feedback": "Materi menyebut wabah pes di Pulau Jawa sepanjang 1910–1936 yang menyebabkan puluhan ribu korban jiwa."
+            },
+            {
+              "id": "D",
+              "text": "Kolera pada 1945–1949",
+              "correct": false,
+              "feedback": "Rentang waktu dan penyakit tersebut tidak sesuai dengan indikator wabah 1910–1936."
+            }
+          ]
+        },
+        {
+          "id": "p1-q20",
+          "number": 20,
+          "topic": "Akhir kekuasaan kolonial Belanda",
+          "type": "pg",
+          "stem": "Peristiwa yang menandai berakhirnya pemerintahan kolonial Belanda dan dimulainya pendudukan Jepang pada 8 Maret 1942 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Konferensi Meja Bundar",
+              "correct": false,
+              "feedback": "Konferensi Meja Bundar berlangsung pada 1949 dan berkaitan dengan pengakuan kedaulatan."
+            },
+            {
+              "id": "B",
+              "text": "Kapitulasi Kalijati",
+              "correct": true,
+              "feedback": "Kapitulasi Kalijati ditandatangani pada 8 Maret 1942 dan menandai berakhirnya kekuasaan kolonial Belanda serta dimulainya pendudukan Jepang."
+            },
+            {
+              "id": "C",
+              "text": "Perjanjian Renville",
+              "correct": false,
+              "feedback": "Perjanjian Renville berlangsung pada masa revolusi kemerdekaan Indonesia setelah 1945."
+            },
+            {
+              "id": "D",
+              "text": "Perjanjian Linggarjati",
+              "correct": false,
+              "feedback": "Perjanjian Linggarjati merupakan perundingan Indonesia-Belanda setelah proklamasi kemerdekaan."
+            }
+          ]
+        },
+        {
+          "id": "p1-q21",
+          "number": 21,
+          "topic": "Faktor perubahan strategi perjuangan",
+          "type": "mcma",
+          "stem": "Pilih semua faktor yang mendorong perubahan perjuangan menuju organisasi modern pada awal abad ke-20.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Munculnya golongan terpelajar akibat perkembangan pendidikan",
+              "correct": true,
+              "feedback": "Pendidikan melahirkan kaum terpelajar yang mampu mengembangkan gagasan dan organisasi modern."
+            },
+            {
+              "id": "B",
+              "text": "Pengalaman senasib akibat imperialisme dan kolonialisme",
+              "correct": true,
+              "feedback": "Kesamaan nasib menumbuhkan solidaritas dan kesadaran untuk memperjuangkan kepentingan bersama."
+            },
+            {
+              "id": "C",
+              "text": "Pengaruh paham nasionalisme dan gerakan bangsa Asia",
+              "correct": true,
+              "feedback": "Perkembangan nasionalisme di Asia memberi inspirasi bagi pergerakan Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Keinginan untuk kembali membatasi perjuangan pada wilayah kerajaan",
+              "correct": false,
+              "feedback": "Perubahan strategi justru bergerak melampaui perjuangan kedaerahan menuju organisasi dan orientasi nasional."
+            }
+          ]
+        },
+        {
+          "id": "p1-q22",
+          "number": 22,
+          "topic": "Dampak jangka panjang Sumpah Pemuda",
+          "type": "mcma",
+          "stem": "Pilih semua dampak jangka panjang Sumpah Pemuda yang memperkuat integrasi bangsa Indonesia.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mendorong penggunaan Bahasa Indonesia sebagai bahasa persatuan",
+              "correct": true,
+              "feedback": "Ikrar ketiga menegaskan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Memperkuat solidaritas lintas daerah dalam perjuangan kemerdekaan",
+              "correct": true,
+              "feedback": "Persatuan pemuda membantu memperkuat kerja sama lintas daerah dalam pergerakan nasional."
+            },
+            {
+              "id": "C",
+              "text": "Mendorong setiap organisasi kembali mengutamakan kepentingan daerah masing-masing",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru mengatasi sekat kedaerahan dan menegaskan orientasi nasional."
+            },
+            {
+              "id": "D",
+              "text": "Memperkuat identitas sebagai satu bangsa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat kesadaran bahwa masyarakat dari berbagai daerah merupakan satu bangsa."
+            }
+          ]
+        },
+        {
+          "id": "p1-q23",
+          "number": 23,
+          "topic": "Dinamika organisasi pergerakan nasional",
+          "type": "mcma",
+          "stem": "Pilih semua pernyataan yang tepat untuk menyimpulkan dinamika organisasi pergerakan nasional Indonesia.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Organisasi modern menjadi sarana perjuangan di luar perlawanan fisik kedaerahan",
+              "correct": true,
+              "feedback": "Organisasi merupakan bentuk perjuangan yang semakin terstruktur dan berorientasi nasional."
+            },
+            {
+              "id": "B",
+              "text": "Seluruh organisasi memiliki tujuan, ideologi, dan cara perjuangan yang sama persis",
+              "correct": false,
+              "feedback": "Organisasi pergerakan memiliki latar belakang, bidang, ideologi, dan strategi yang tidak selalu sama."
+            },
+            {
+              "id": "C",
+              "text": "Organisasi pergerakan memiliki bidang dan orientasi yang beragam",
+              "correct": true,
+              "feedback": "Ada organisasi yang menekankan pendidikan, ekonomi, agama, sosial, maupun politik kebangsaan."
+            },
+            {
+              "id": "D",
+              "text": "Perbedaan ideologi dapat memengaruhi dinamika internal organisasi",
+              "correct": true,
+              "feedback": "Perpecahan Sarekat Islam menunjukkan bahwa perbedaan ideologi dapat memengaruhi arah organisasi."
+            }
+          ]
+        },
+        {
+          "id": "p1-q24",
+          "number": 24,
+          "topic": "Great Depression dan krisis sosial",
+          "type": "mcma",
+          "stem": "Pilih semua hubungan yang tepat antara Great Depression, kondisi sosial-ekonomi Hindia Belanda, dan stabilitas pemerintahan kolonial.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Krisis tersebut otomatis memperkuat stabilitas kolonial karena pendapatan negara meningkat",
+              "correct": false,
+              "feedback": "Krisis mengurangi penerimaan dan memperburuk kondisi sosial-ekonomi, sehingga menambah tekanan terhadap pemerintahan kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Harga komoditas ekspor dan permintaan pasar internasional mengalami penurunan",
+              "correct": true,
+              "feedback": "Materi menyebut turunnya harga pasar dan permintaan komoditas internasional sebagai dampak Great Depression."
+            },
+            {
+              "id": "C",
+              "text": "Usaha perkebunan perdagangan seperti gula dan karet mengalami kesulitan",
+              "correct": true,
+              "feedback": "Komoditas gula dan karet termasuk sektor yang terdampak krisis."
+            },
+            {
+              "id": "D",
+              "text": "Kesempatan kerja, pendapatan, dan daya beli masyarakat menurun",
+              "correct": true,
+              "feedback": "Berkurangnya penerimaan negara dan aktivitas ekonomi berdampak pada pekerjaan, pendapatan, serta daya beli."
+            }
+          ]
+        },
+        {
+          "id": "p1-q25",
+          "number": 25,
+          "topic": "Makna historis Kapitulasi Kalijati",
+          "type": "mcma",
+          "stem": "Pilih semua makna historis Kapitulasi Kalijati 8 Maret 1942 bagi perjalanan bangsa Indonesia.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai berakhirnya pemerintahan kolonial Belanda di Hindia Belanda",
+              "correct": true,
+              "feedback": "Penyerahan pada 8 Maret 1942 mengakhiri kekuasaan kolonial Belanda di wilayah tersebut."
+            },
+            {
+              "id": "B",
+              "text": "Menandai dimulainya pendudukan Jepang di Indonesia",
+              "correct": true,
+              "feedback": "Setelah Belanda menyerah, kekuasaan beralih kepada Jepang dan dimulailah masa pendudukan Jepang."
+            },
+            {
+              "id": "C",
+              "text": "Menjadi babak baru dalam perjalanan sejarah menuju kemerdekaan Indonesia",
+              "correct": true,
+              "feedback": "Pergantian kekuasaan membuka fase sejarah baru yang kemudian berhubungan dengan proses menuju kemerdekaan."
+            },
+            {
+              "id": "D",
+              "text": "Merupakan peristiwa Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi pada 1942 dan bukan proklamasi kemerdekaan Indonesia."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Paket 02",
+      "questions": [
+        {
+          "id": "p2-q1",
+          "number": 1,
+          "topic": "Faktor eksternal pergerakan nasional",
+          "type": "pg",
+          "stem": "Seorang pelajar membaca berita kemenangan Jepang atas Rusia pada 1905. Mengapa peristiwa tersebut berpengaruh terhadap pergerakan nasional Indonesia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Berdirinya Budi Utomo pada 1908",
+              "correct": false,
+              "feedback": "Budi Utomo merupakan perkembangan dari dalam Indonesia, sehingga termasuk faktor internal."
+            },
+            {
+              "id": "B",
+              "text": "Pelaksanaan Kongres Pemuda II pada 1928",
+              "correct": false,
+              "feedback": "Kongres Pemuda II merupakan bagian dari proses pergerakan di Indonesia, bukan pengaruh luar."
+            },
+            {
+              "id": "C",
+              "text": "Kapitulasi Kalijati pada 1942",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi jauh setelah awal kebangkitan nasional dan bukan faktor pendorong awal."
+            },
+            {
+              "id": "D",
+              "text": "Kemenangan Jepang atas Rusia pada 1905",
+              "correct": true,
+              "feedback": "Kemenangan Jepang atas Rusia menunjukkan bahwa bangsa Asia mampu mengalahkan kekuatan Eropa."
+            }
+          ]
+        },
+        {
+          "id": "p2-q2",
+          "number": 2,
+          "topic": "Nasionalisme India – ajaran Mahatma Gandhi",
+          "type": "pg",
+          "stem": "Seorang tokoh India mengajak rakyat melakukan protes tanpa kekerasan, pemogokan massal, non-kooperasi, lalu menggunakan produk sendiri. Urutan asas Gandhi yang sesuai ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satyagraha – Swadeshi – Ahimsa – Hartal",
+              "correct": false,
+              "feedback": "Satyagraha bukan istilah untuk anti-kekerasan secara umum, sedangkan Swadeshi berkaitan dengan kemandirian produk."
+            },
+            {
+              "id": "B",
+              "text": "Swadeshi – Satyagraha – Hartal – Ahimsa",
+              "correct": false,
+              "feedback": "Swadeshi adalah gerakan memakai produk sendiri, bukan istilah pertama untuk prinsip anti-kekerasan."
+            },
+            {
+              "id": "C",
+              "text": "Ahimsa – Hartal – Satyagraha – Swadeshi",
+              "correct": true,
+              "feedback": "Ahimsa berarti anti-kekerasan; Hartal adalah pemogokan; Satyagraha menekankan keteguhan pada kebenaran dan non-kooperasi; Swadeshi mengutamakan produk sendiri."
+            },
+            {
+              "id": "D",
+              "text": "Hartal – Ahimsa – Swadeshi – Satyagraha",
+              "correct": false,
+              "feedback": "Urutan ini menukar makna istilah: Ahimsa adalah anti-kekerasan dan Hartal adalah pemogokan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q3",
+          "number": 3,
+          "topic": "Nasionalisme Tiongkok – San Min Chu I",
+          "type": "pg",
+          "stem": "Revolusi Wuchang 1911 berkaitan dengan gerakan nasionalis Tiongkok yang dipimpin oleh tokoh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Jose Rizal",
+              "correct": false,
+              "feedback": "Jose Rizal merupakan tokoh kebangkitan nasional Filipina."
+            },
+            {
+              "id": "B",
+              "text": "Sun Yat-sen",
+              "correct": true,
+              "feedback": "Sun Yat-sen dikenal sebagai tokoh nasionalis Tiongkok dan pencetus gagasan San Min Chu I."
+            },
+            {
+              "id": "C",
+              "text": "Mahatma Gandhi",
+              "correct": false,
+              "feedback": "Gandhi merupakan tokoh perjuangan kemerdekaan India."
+            },
+            {
+              "id": "D",
+              "text": "Mustafa Kemal Pasha",
+              "correct": false,
+              "feedback": "Mustafa Kemal Pasha memimpin gerakan nasionalisme dan modernisasi Turki."
+            }
+          ]
+        },
+        {
+          "id": "p2-q4",
+          "number": 4,
+          "topic": "Perubahan strategi perjuangan setelah 1908",
+          "type": "pg",
+          "stem": "Jika perjuangan sebelum 1908 cenderung bersifat lokal dan mengandalkan perang fisik, perubahan setelah 1908 ditandai oleh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjuangan nasional melalui organisasi yang dipimpin kaum terpelajar",
+              "correct": true,
+              "feedback": "Sesudah 1908 perjuangan semakin nasional, dipimpin kaum terpelajar, dan dilakukan melalui organisasi."
+            },
+            {
+              "id": "B",
+              "text": "Perlawanan lokal yang dipimpin raja dengan peperangan",
+              "correct": false,
+              "feedback": "Ciri tersebut lebih menggambarkan perjuangan sebelum 1908."
+            },
+            {
+              "id": "C",
+              "text": "Perjuangan yang hanya berpusat di desa dan pedalaman",
+              "correct": false,
+              "feedback": "Pusat perjuangan sesudah 1908 semakin berkembang di kota-kota."
+            },
+            {
+              "id": "D",
+              "text": "Perjuangan yang sepenuhnya mengandalkan kekuatan bangsawan",
+              "correct": false,
+              "feedback": "Sesudah 1908, golongan terpelajar dan organisasi modern semakin berperan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q5",
+          "number": 5,
+          "topic": "Budi Utomo dan Sarekat Islam",
+          "type": "pg",
+          "stem": "Budi Utomo dikenal menaruh perhatian pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dengan penekanan lebih kuat pada ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Budi Utomo: perjuangan bersenjata; Sarekat Islam: pendidikan Barat",
+              "correct": false,
+              "feedback": "Keduanya bukan organisasi yang dibedakan oleh pasangan orientasi tersebut."
+            },
+            {
+              "id": "B",
+              "text": "Budi Utomo: komunisme; Sarekat Islam: pendidikan perempuan",
+              "correct": false,
+              "feedback": "Pasangan ini tidak sesuai dengan orientasi utama kedua organisasi."
+            },
+            {
+              "id": "C",
+              "text": "Budi Utomo: diplomasi luar negeri; Sarekat Islam: gerakan militer",
+              "correct": false,
+              "feedback": "Keduanya berkembang sebagai organisasi pergerakan, bukan organisasi militer."
+            },
+            {
+              "id": "D",
+              "text": "Budi Utomo: pendidikan dan budaya; Sarekat Islam: ekonomi, sosial, dan politik",
+              "correct": true,
+              "feedback": "Budi Utomo berorientasi pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dari kepentingan ekonomi dan meluas ke bidang sosial-politik."
+            }
+          ]
+        },
+        {
+          "id": "p2-q6",
+          "number": 6,
+          "topic": "Klasifikasi organisasi pergerakan",
+          "type": "pg",
+          "stem": "Perhatikan ciri: pendidikan nasional, pembaruan Islam, dan gerakan politik kebangsaan. Urutan organisasi yang sesuai adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "NU – organisasi dagang; Sarekat Islam – sekolah nasional; Budi Utomo – partai komunis",
+              "correct": false,
+              "feedback": "Klasifikasi ini tidak sesuai dengan sejarah dan orientasi organisasi tersebut."
+            },
+            {
+              "id": "B",
+              "text": "Perhimpunan Indonesia – organisasi kerajaan; PKI – organisasi pendidikan; Budi Utomo – gerakan militer",
+              "correct": false,
+              "feedback": "Ketiga pasangan tersebut tidak menggambarkan karakter organisasi pergerakan."
+            },
+            {
+              "id": "C",
+              "text": "Taman Siswa – pendidikan nasional; Muhammadiyah – pembaruan Islam; Indische Partij – politik kebangsaan",
+              "correct": true,
+              "feedback": "Taman Siswa bergerak dalam pendidikan, Muhammadiyah dalam pembaruan sosial-keagamaan, dan Indische Partij dalam politik kebangsaan."
+            },
+            {
+              "id": "D",
+              "text": "Taman Siswa – gerakan militer; Muhammadiyah – perdagangan; Indische Partij – pendidikan pesantren",
+              "correct": false,
+              "feedback": "Ketiga bidang tersebut tidak sesuai dengan fokus utama organisasi yang disebutkan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q7",
+          "number": 7,
+          "topic": "Makna berdirinya Budi Utomo",
+          "type": "pg",
+          "stem": "Alasan historis berdirinya Budi Utomo pada 20 Mei 1908 dianggap sebagai tonggak kebangkitan nasional adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai dimulainya perjuangan bersenjata di seluruh wilayah Indonesia",
+              "correct": false,
+              "feedback": "Budi Utomo justru menjadi tonggak pergerakan melalui organisasi, bukan awal perang serentak."
+            },
+            {
+              "id": "B",
+              "text": "Menjadi tonggak berkembangnya organisasi modern yang membangkitkan kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Budi Utomo menjadi simbol awal kebangkitan melalui organisasi modern dan kesadaran yang lebih terorganisasi."
+            },
+            {
+              "id": "C",
+              "text": "Menandai proklamasi kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Proklamasi kemerdekaan berlangsung pada 17 Agustus 1945."
+            },
+            {
+              "id": "D",
+              "text": "Menandai berakhirnya seluruh pemerintahan kolonial Belanda",
+              "correct": false,
+              "feedback": "Kekuasaan kolonial Belanda berakhir pada 1942 setelah menyerah kepada Jepang."
+            }
+          ]
+        },
+        {
+          "id": "p2-q8",
+          "number": 8,
+          "topic": "Tiga Serangkai – Indische Partij",
+          "type": "pg",
+          "stem": "Indische Partij berdiri pada 1912 dan didirikan oleh tiga tokoh yang dikenal sebagai ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "E.F.E. Douwes Dekker, dr. Cipto Mangunkusumo, dan Suwardi Suryaningrat",
+              "correct": true,
+              "feedback": "Tiga Serangkai terdiri atas Douwes Dekker, Cipto Mangunkusumo, dan Suwardi Suryaningrat."
+            },
+            {
+              "id": "B",
+              "text": "Soekarno, Mohammad Hatta, dan Sutan Sjahrir",
+              "correct": false,
+              "feedback": "Ketiganya merupakan tokoh penting pada periode berikutnya, bukan Tiga Serangkai pendiri Indische Partij."
+            },
+            {
+              "id": "C",
+              "text": "Ki Bagus Hadikusumo, Ahmad Dahlan, dan Hasyim Asy'ari",
+              "correct": false,
+              "feedback": "Nama-nama tersebut berkaitan dengan perkembangan organisasi Islam, bukan pendiri Indische Partij."
+            },
+            {
+              "id": "D",
+              "text": "Sutomo, Wahidin Sudirohusodo, dan Gunawan Mangunkusumo",
+              "correct": false,
+              "feedback": "Tokoh-tokoh tersebut berkaitan dengan lingkungan Budi Utomo, bukan Tiga Serangkai."
+            }
+          ]
+        },
+        {
+          "id": "p2-q9",
+          "number": 9,
+          "topic": "Perkembangan Sarekat Islam",
+          "type": "pg",
+          "stem": "Sarekat Islam berkembang menjadi organisasi massa. Salah satu faktor yang membuatnya mudah diterima masyarakat ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Keanggotaan yang hanya terbatas pada bangsawan Jawa",
+              "correct": false,
+              "feedback": "Sarekat Islam justru berkembang sebagai organisasi dengan dukungan massa yang luas."
+            },
+            {
+              "id": "B",
+              "text": "Kewajiban mengikuti pendidikan militer kolonial",
+              "correct": false,
+              "feedback": "Pendidikan militer kolonial bukan faktor utama perluasan dukungan Sarekat Islam."
+            },
+            {
+              "id": "C",
+              "text": "Dukungan penuh pemerintah kolonial terhadap kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Sarekat Islam berkembang dalam situasi kolonial dan bukan karena dukungan pemerintah untuk kemerdekaan."
+            },
+            {
+              "id": "D",
+              "text": "Identitas Islam yang menyatukan anggota serta perhatian pada kepentingan ekonomi rakyat",
+              "correct": true,
+              "feedback": "Identitas keislaman menjadi pemersatu, sementara kepentingan ekonomi membuat organisasi dekat dengan kebutuhan masyarakat."
+            }
+          ]
+        },
+        {
+          "id": "p2-q10",
+          "number": 10,
+          "topic": "Perpecahan Sarekat Islam",
+          "type": "pg",
+          "stem": "Perbedaan orientasi antara SI Putih dan SI Merah terutama disebabkan oleh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perbedaan pendapat mengenai lokasi ibu kota Republik Indonesia",
+              "correct": false,
+              "feedback": "Persoalan ibu kota Republik Indonesia tidak menjadi pemicu perpecahan Sarekat Islam."
+            },
+            {
+              "id": "B",
+              "text": "Persaingan untuk menguasai perdagangan rempah di Maluku",
+              "correct": false,
+              "feedback": "Persaingan perdagangan rempah bukan faktor utama perpecahan internal Sarekat Islam."
+            },
+            {
+              "id": "C",
+              "text": "Perbedaan ideologi dan pengaruh sosialisme-komunisme dalam organisasi",
+              "correct": true,
+              "feedback": "Perbedaan orientasi ideologi memisahkan kelompok yang mempertahankan garis Islam dengan kelompok yang dipengaruhi sosialisme-komunisme."
+            },
+            {
+              "id": "D",
+              "text": "Perselisihan tentang penggunaan bahasa daerah dalam kongres",
+              "correct": false,
+              "feedback": "Perbedaan bahasa bukan penyebab utama perpecahan SI Putih dan SI Merah."
+            }
+          ]
+        },
+        {
+          "id": "p2-q11",
+          "number": 11,
+          "topic": "Muhammadiyah dan Nahdlatul Ulama",
+          "type": "pg",
+          "stem": "Perbandingan yang sesuai antara Muhammadiyah dan NU dalam bidang pendidikan dan sosial-keagamaan adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammadiyah menolak pendidikan; NU hanya bergerak dalam politik luar negeri",
+              "correct": false,
+              "feedback": "Keduanya berperan dalam kehidupan sosial dan pendidikan umat."
+            },
+            {
+              "id": "B",
+              "text": "Muhammadiyah menekankan pembaruan pendidikan dan sosial; NU menjaga tradisi keilmuan pesantren dan Aswaja",
+              "correct": true,
+              "feedback": "Muhammadiyah dikenal dengan pembaruan pendidikan dan sosial-keagamaan, sedangkan NU berakar kuat pada tradisi ulama dan pesantren."
+            },
+            {
+              "id": "C",
+              "text": "Muhammadiyah bergerak dalam militer; NU bergerak dalam perdagangan internasional",
+              "correct": false,
+              "feedback": "Kedua organisasi bukan organisasi militer atau perdagangan internasional."
+            },
+            {
+              "id": "D",
+              "text": "Muhammadiyah berfokus pada nasionalisme Tiongkok; NU pada nasionalisme India",
+              "correct": false,
+              "feedback": "Keduanya merupakan organisasi Islam di Indonesia."
+            }
+          ]
+        },
+        {
+          "id": "p2-q12",
+          "number": 12,
+          "topic": "Perkembangan gerakan pemuda 1915–1928",
+          "type": "pg",
+          "stem": "Organisasi pemuda awal seperti Jong Java dan Jong Sumatranen Bond menunjukkan identitas kedaerahan. Pada 1926–1928 orientasinya bergeser menuju ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dari identitas kedaerahan menuju persatuan dan identitas nasional Indonesia",
+              "correct": true,
+              "feedback": "Gerakan pemuda berkembang dari organisasi bercorak daerah menuju orientasi kebangsaan dan persatuan Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Dari persatuan nasional menuju pemisahan berdasarkan daerah",
+              "correct": false,
+              "feedback": "Arah perkembangan justru bergerak menuju persatuan nasional."
+            },
+            {
+              "id": "C",
+              "text": "Dari organisasi modern menuju perlawanan kerajaan",
+              "correct": false,
+              "feedback": "Gerakan pemuda berkembang melalui organisasi dan kongres, bukan kembali ke pola kerajaan."
+            },
+            {
+              "id": "D",
+              "text": "Dari perjuangan pendidikan menuju dukungan terhadap kolonialisme",
+              "correct": false,
+              "feedback": "Gerakan pemuda semakin menegaskan kesadaran kebangsaan, bukan mendukung kolonialisme."
+            }
+          ]
+        },
+        {
+          "id": "p2-q13",
+          "number": 13,
+          "topic": "Isi ikrar Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Rumusan Sumpah Pemuda menegaskan satu tanah air, satu bangsa, dan ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satu kerajaan, satu agama resmi, dan satu bahasa daerah",
+              "correct": false,
+              "feedback": "Rumusan Sumpah Pemuda tidak berbicara tentang pembentukan kerajaan atau penetapan agama resmi."
+            },
+            {
+              "id": "B",
+              "text": "Satu pulau, satu suku, dan satu pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Ikrar tersebut menekankan identitas nasional Indonesia, bukan kesatuan satu pulau atau suku."
+            },
+            {
+              "id": "C",
+              "text": "Satu wilayah Jawa, satu bangsa daerah, dan bahasa Belanda",
+              "correct": false,
+              "feedback": "Sumpah Pemuda menegaskan Indonesia sebagai tanah air dan bangsa serta Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "D",
+              "text": "Satu tanah air Indonesia, satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda menegaskan tanah air Indonesia, bangsa Indonesia, dan Bahasa Indonesia sebagai bahasa persatuan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q14",
+          "number": 14,
+          "topic": "Kongres Pemuda I – Muhammad Yamin",
+          "type": "pg",
+          "stem": "Pada Kongres Pemuda I, siapa yang menyampaikan gagasan tentang perkembangan bahasa dan sastra Indonesia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "M. Tabrani",
+              "correct": false,
+              "feedback": "M. Tabrani memimpin komite penyelenggara yang merencanakan Kongres Pemuda I."
+            },
+            {
+              "id": "B",
+              "text": "Bahder Djohan",
+              "correct": false,
+              "feedback": "Bahder Djohan membahas kedudukan wanita dalam masyarakat Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Muhammad Yamin",
+              "correct": true,
+              "feedback": "Muhammad Yamin membawakan pembahasan tentang kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang."
+            },
+            {
+              "id": "D",
+              "text": "Soegondo Djojopoespito",
+              "correct": false,
+              "feedback": "Soegondo dikenal sebagai ketua PPPI dan Kongres Pemuda II."
+            }
+          ]
+        },
+        {
+          "id": "p2-q15",
+          "number": 15,
+          "topic": "Arti penting Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Sumpah Pemuda menjadi tonggak integrasi bangsa karena ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mengembalikan perjuangan ke kelompok kerajaan dan daerah",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru memperkuat orientasi nasional melampaui identitas kedaerahan."
+            },
+            {
+              "id": "B",
+              "text": "Memperkuat identitas nasional, persatuan, dan penggunaan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat identitas kebangsaan dan solidaritas lintas daerah serta menegaskan bahasa persatuan."
+            },
+            {
+              "id": "C",
+              "text": "Menghapus seluruh organisasi pemuda dan melarang kegiatan pendidikan",
+              "correct": false,
+              "feedback": "Sumpah Pemuda mendorong persatuan, bukan menghapus aktivitas organisasi dan pendidikan."
+            },
+            {
+              "id": "D",
+              "text": "Menetapkan Indonesia langsung menjadi negara merdeka",
+              "correct": false,
+              "feedback": "Kemerdekaan Indonesia baru diproklamasikan pada 17 Agustus 1945."
+            }
+          ]
+        },
+        {
+          "id": "p2-q16",
+          "number": 16,
+          "topic": "Peran pers pada masa pergerakan",
+          "type": "pg",
+          "stem": "Surat kabar masa pergerakan memuat kritik terhadap kolonialisme dan gagasan kebangsaan. Hal tersebut menunjukkan fungsi pers sebagai ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menyebarkan gagasan kebangsaan, mengkritik kolonialisme, dan membangun kesadaran masyarakat",
+              "correct": true,
+              "feedback": "Pers menjadi sarana komunikasi, pendidikan politik, kritik kolonial, dan penyebaran gagasan nasionalisme."
+            },
+            {
+              "id": "B",
+              "text": "Menggantikan seluruh organisasi pergerakan dengan pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Pers mendukung perkembangan kesadaran dan mobilisasi pergerakan, bukan menggantikannya dengan pemerintahan kolonial."
+            },
+            {
+              "id": "C",
+              "text": "Membatasi informasi agar masyarakat tidak mengetahui kondisi politik",
+              "correct": false,
+              "feedback": "Pers pergerakan justru memperluas informasi dan wawasan masyarakat."
+            },
+            {
+              "id": "D",
+              "text": "Menjadi alat utama untuk mengatur perdagangan rempah",
+              "correct": false,
+              "feedback": "Fungsi pers yang dibahas dalam pergerakan nasional berkaitan dengan informasi dan kesadaran kebangsaan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q17",
+          "number": 17,
+          "topic": "Surat kabar De Express",
+          "type": "pg",
+          "stem": "Jika sebuah soal menyebut surat kabar yang digunakan untuk menyuarakan kritik terhadap kolonialisme dan terkait Tiga Serangkai, nama surat kabarnya adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bintang Hindia",
+              "correct": false,
+              "feedback": "Bintang Hindia merupakan surat kabar yang disebut dalam perkembangan pers, tetapi bukan jawaban indikator ini."
+            },
+            {
+              "id": "B",
+              "text": "Pewarta Prijaji",
+              "correct": false,
+              "feedback": "Pewarta Prijaji merupakan salah satu penerbitan bumiputra, bukan surat kabar yang dimaksud."
+            },
+            {
+              "id": "C",
+              "text": "Sinar Djawa",
+              "correct": false,
+              "feedback": "Sinar Djawa berperan menyebarkan gagasan pendidikan dan pergerakan, tetapi bukan nama surat kabar yang dimaksud pada indikator ini."
+            },
+            {
+              "id": "D",
+              "text": "De Express",
+              "correct": true,
+              "feedback": "De Express dikenal sebagai surat kabar radikal yang berkaitan dengan lingkungan Indische Partij dan mendapat perhatian pemerintah kolonial."
+            }
+          ]
+        },
+        {
+          "id": "p2-q18",
+          "number": 18,
+          "topic": "Fungsi pers dalam pergerakan nasional",
+          "type": "pg",
+          "stem": "Pers memiliki peran lebih luas daripada menyampaikan berita. Fungsi yang sesuai pada masa pergerakan adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menggantikan kongres pemuda, membentuk tentara, dan mengatur pajak",
+              "correct": false,
+              "feedback": "Pers bukan lembaga kongres, militer, atau pemungut pajak."
+            },
+            {
+              "id": "B",
+              "text": "Mendukung monopoli kolonial, menutup diskusi, dan menghilangkan berita",
+              "correct": false,
+              "feedback": "Pers pergerakan justru digunakan untuk mengkritik ketidakadilan kolonial."
+            },
+            {
+              "id": "C",
+              "text": "Menyebarkan informasi, menyampaikan kritik, dan memobilisasi kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Ketiga fungsi tersebut sesuai dengan peran pers sebagai media informasi, kritik, dan mobilisasi pergerakan."
+            },
+            {
+              "id": "D",
+              "text": "Membatasi pendidikan, menghapus organisasi, dan memperkuat sensor masyarakat",
+              "correct": false,
+              "feedback": "Tindakan tersebut bertentangan dengan fungsi pers sebagai penyebar informasi dan gagasan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q19",
+          "number": 19,
+          "topic": "Wabah penyakit awal abad ke-20",
+          "type": "pg",
+          "stem": "Materi sejarah pergerakan mencatat puluhan ribu orang meninggal akibat wabah di Jawa sepanjang 1910–1936. Wabah tersebut adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cacar pada 1880–1890",
+              "correct": false,
+              "feedback": "Periode tersebut tidak sesuai dengan data wabah pes 1910–1936 dalam materi."
+            },
+            {
+              "id": "B",
+              "text": "Pes",
+              "correct": true,
+              "feedback": "Materi menyebut wabah pes di Pulau Jawa sepanjang 1910–1936 yang menyebabkan puluhan ribu korban jiwa."
+            },
+            {
+              "id": "C",
+              "text": "Kolera pada 1945–1949",
+              "correct": false,
+              "feedback": "Rentang waktu dan penyakit tersebut tidak sesuai dengan indikator wabah 1910–1936."
+            },
+            {
+              "id": "D",
+              "text": "Malaria pada 1960–1970",
+              "correct": false,
+              "feedback": "Periode tersebut berada di luar rentang wabah yang ditanyakan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q20",
+          "number": 20,
+          "topic": "Akhir kekuasaan kolonial Belanda",
+          "type": "pg",
+          "stem": "Belanda secara resmi menyerah kepada Jepang di Subang pada 8 Maret 1942 melalui peristiwa ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kapitulasi Kalijati",
+              "correct": true,
+              "feedback": "Kapitulasi Kalijati ditandatangani pada 8 Maret 1942 dan menandai berakhirnya kekuasaan kolonial Belanda serta dimulainya pendudukan Jepang."
+            },
+            {
+              "id": "B",
+              "text": "Perjanjian Renville",
+              "correct": false,
+              "feedback": "Perjanjian Renville berlangsung pada masa revolusi kemerdekaan Indonesia setelah 1945."
+            },
+            {
+              "id": "C",
+              "text": "Perjanjian Linggarjati",
+              "correct": false,
+              "feedback": "Perjanjian Linggarjati merupakan perundingan Indonesia-Belanda setelah proklamasi kemerdekaan."
+            },
+            {
+              "id": "D",
+              "text": "Konferensi Meja Bundar",
+              "correct": false,
+              "feedback": "Konferensi Meja Bundar berlangsung pada 1949 dan berkaitan dengan pengakuan kedaulatan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q21",
+          "number": 21,
+          "topic": "Faktor perubahan strategi perjuangan",
+          "type": "mcma",
+          "stem": "Perjuangan abad ke-20 semakin terorganisasi. Faktor-faktor yang mendukung perubahan tersebut adalah ... (Pilih semua jawaban benar.)",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pengalaman senasib akibat imperialisme dan kolonialisme",
+              "correct": true,
+              "feedback": "Kesamaan nasib menumbuhkan solidaritas dan kesadaran untuk memperjuangkan kepentingan bersama."
+            },
+            {
+              "id": "B",
+              "text": "Pengaruh paham nasionalisme dan gerakan bangsa Asia",
+              "correct": true,
+              "feedback": "Perkembangan nasionalisme di Asia memberi inspirasi bagi pergerakan Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Keinginan untuk kembali membatasi perjuangan pada wilayah kerajaan",
+              "correct": false,
+              "feedback": "Perubahan strategi justru bergerak melampaui perjuangan kedaerahan menuju organisasi dan orientasi nasional."
+            },
+            {
+              "id": "D",
+              "text": "Munculnya golongan terpelajar akibat perkembangan pendidikan",
+              "correct": true,
+              "feedback": "Pendidikan melahirkan kaum terpelajar yang mampu mengembangkan gagasan dan organisasi modern."
+            }
+          ]
+        },
+        {
+          "id": "p2-q22",
+          "number": 22,
+          "topic": "Dampak jangka panjang Sumpah Pemuda",
+          "type": "mcma",
+          "stem": "Sumpah Pemuda berpengaruh terhadap proses integrasi bangsa. Dampak yang tepat adalah ... (Pilih semua jawaban benar.)",
+          "options": [
+            {
+              "id": "A",
+              "text": "Memperkuat solidaritas lintas daerah dalam perjuangan kemerdekaan",
+              "correct": true,
+              "feedback": "Persatuan pemuda membantu memperkuat kerja sama lintas daerah dalam pergerakan nasional."
+            },
+            {
+              "id": "B",
+              "text": "Mendorong setiap organisasi kembali mengutamakan kepentingan daerah masing-masing",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru mengatasi sekat kedaerahan dan menegaskan orientasi nasional."
+            },
+            {
+              "id": "C",
+              "text": "Memperkuat identitas sebagai satu bangsa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat kesadaran bahwa masyarakat dari berbagai daerah merupakan satu bangsa."
+            },
+            {
+              "id": "D",
+              "text": "Mendorong penggunaan Bahasa Indonesia sebagai bahasa persatuan",
+              "correct": true,
+              "feedback": "Ikrar ketiga menegaskan Bahasa Indonesia sebagai bahasa persatuan."
+            }
+          ]
+        },
+        {
+          "id": "p2-q23",
+          "number": 23,
+          "topic": "Dinamika organisasi pergerakan nasional",
+          "type": "mcma",
+          "stem": "Organisasi pergerakan memiliki latar dan orientasi berbeda. Pilih semua karakteristik yang benar.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Seluruh organisasi memiliki tujuan, ideologi, dan cara perjuangan yang sama persis",
+              "correct": false,
+              "feedback": "Organisasi pergerakan memiliki latar belakang, bidang, ideologi, dan strategi yang tidak selalu sama."
+            },
+            {
+              "id": "B",
+              "text": "Organisasi pergerakan memiliki bidang dan orientasi yang beragam",
+              "correct": true,
+              "feedback": "Ada organisasi yang menekankan pendidikan, ekonomi, agama, sosial, maupun politik kebangsaan."
+            },
+            {
+              "id": "C",
+              "text": "Perbedaan ideologi dapat memengaruhi dinamika internal organisasi",
+              "correct": true,
+              "feedback": "Perpecahan Sarekat Islam menunjukkan bahwa perbedaan ideologi dapat memengaruhi arah organisasi."
+            },
+            {
+              "id": "D",
+              "text": "Organisasi modern menjadi sarana perjuangan di luar perlawanan fisik kedaerahan",
+              "correct": true,
+              "feedback": "Organisasi merupakan bentuk perjuangan yang semakin terstruktur dan berorientasi nasional."
+            }
+          ]
+        },
+        {
+          "id": "p2-q24",
+          "number": 24,
+          "topic": "Great Depression dan krisis sosial",
+          "type": "mcma",
+          "stem": "Pada 1930-an, krisis ekonomi global memengaruhi Hindia Belanda. Pilih semua dampak yang sesuai dengan materi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Harga komoditas ekspor dan permintaan pasar internasional mengalami penurunan",
+              "correct": true,
+              "feedback": "Materi menyebut turunnya harga pasar dan permintaan komoditas internasional sebagai dampak Great Depression."
+            },
+            {
+              "id": "B",
+              "text": "Usaha perkebunan perdagangan seperti gula dan karet mengalami kesulitan",
+              "correct": true,
+              "feedback": "Komoditas gula dan karet termasuk sektor yang terdampak krisis."
+            },
+            {
+              "id": "C",
+              "text": "Kesempatan kerja, pendapatan, dan daya beli masyarakat menurun",
+              "correct": true,
+              "feedback": "Berkurangnya penerimaan negara dan aktivitas ekonomi berdampak pada pekerjaan, pendapatan, serta daya beli."
+            },
+            {
+              "id": "D",
+              "text": "Krisis tersebut otomatis memperkuat stabilitas kolonial karena pendapatan negara meningkat",
+              "correct": false,
+              "feedback": "Krisis mengurangi penerimaan dan memperburuk kondisi sosial-ekonomi, sehingga menambah tekanan terhadap pemerintahan kolonial."
+            }
+          ]
+        },
+        {
+          "id": "p2-q25",
+          "number": 25,
+          "topic": "Makna historis Kapitulasi Kalijati",
+          "type": "mcma",
+          "stem": "Kapitulasi Kalijati menjadi titik perubahan kekuasaan di Hindia Belanda. Pilih semua pernyataan yang tepat.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai dimulainya pendudukan Jepang di Indonesia",
+              "correct": true,
+              "feedback": "Setelah Belanda menyerah, kekuasaan beralih kepada Jepang dan dimulailah masa pendudukan Jepang."
+            },
+            {
+              "id": "B",
+              "text": "Menjadi babak baru dalam perjalanan sejarah menuju kemerdekaan Indonesia",
+              "correct": true,
+              "feedback": "Pergantian kekuasaan membuka fase sejarah baru yang kemudian berhubungan dengan proses menuju kemerdekaan."
+            },
+            {
+              "id": "C",
+              "text": "Merupakan peristiwa Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi pada 1942 dan bukan proklamasi kemerdekaan Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Menandai berakhirnya pemerintahan kolonial Belanda di Hindia Belanda",
+              "correct": true,
+              "feedback": "Penyerahan pada 8 Maret 1942 mengakhiri kekuasaan kolonial Belanda di wilayah tersebut."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paket 03",
+      "questions": [
+        {
+          "id": "p3-q1",
+          "number": 1,
+          "topic": "Faktor eksternal pergerakan nasional",
+          "type": "pg",
+          "stem": "Perhatikan daftar berikut: nasionalisme India, gerakan nasionalisme Tiongkok, dan kemenangan Jepang atas Rusia. Ketiganya termasuk faktor ... bagi kebangkitan nasional Indonesia.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pelaksanaan Kongres Pemuda II pada 1928",
+              "correct": false,
+              "feedback": "Kongres Pemuda II merupakan bagian dari proses pergerakan di Indonesia, bukan pengaruh luar."
+            },
+            {
+              "id": "B",
+              "text": "Kapitulasi Kalijati pada 1942",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi jauh setelah awal kebangkitan nasional dan bukan faktor pendorong awal."
+            },
+            {
+              "id": "C",
+              "text": "Kemenangan Jepang atas Rusia pada 1905",
+              "correct": true,
+              "feedback": "Kemenangan Jepang atas Rusia menunjukkan bahwa bangsa Asia mampu mengalahkan kekuatan Eropa."
+            },
+            {
+              "id": "D",
+              "text": "Berdirinya Budi Utomo pada 1908",
+              "correct": false,
+              "feedback": "Budi Utomo merupakan perkembangan dari dalam Indonesia, sehingga termasuk faktor internal."
+            }
+          ]
+        },
+        {
+          "id": "p3-q2",
+          "number": 2,
+          "topic": "Nasionalisme India – ajaran Mahatma Gandhi",
+          "type": "pg",
+          "stem": "Pasangan istilah dan bentuk perjuangan Gandhi harus disusun secara tepat. Urutan untuk anti-kekerasan, pemogokan, keteguhan pada kebenaran/non-kooperasi, dan swadaya adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Swadeshi – Satyagraha – Hartal – Ahimsa",
+              "correct": false,
+              "feedback": "Swadeshi adalah gerakan memakai produk sendiri, bukan istilah pertama untuk prinsip anti-kekerasan."
+            },
+            {
+              "id": "B",
+              "text": "Ahimsa – Hartal – Satyagraha – Swadeshi",
+              "correct": true,
+              "feedback": "Ahimsa berarti anti-kekerasan; Hartal adalah pemogokan; Satyagraha menekankan keteguhan pada kebenaran dan non-kooperasi; Swadeshi mengutamakan produk sendiri."
+            },
+            {
+              "id": "C",
+              "text": "Hartal – Ahimsa – Swadeshi – Satyagraha",
+              "correct": false,
+              "feedback": "Urutan ini menukar makna istilah: Ahimsa adalah anti-kekerasan dan Hartal adalah pemogokan."
+            },
+            {
+              "id": "D",
+              "text": "Satyagraha – Swadeshi – Ahimsa – Hartal",
+              "correct": false,
+              "feedback": "Satyagraha bukan istilah untuk anti-kekerasan secara umum, sedangkan Swadeshi berkaitan dengan kemandirian produk."
+            }
+          ]
+        },
+        {
+          "id": "p3-q3",
+          "number": 3,
+          "topic": "Nasionalisme Tiongkok – San Min Chu I",
+          "type": "pg",
+          "stem": "San Min Chu I atau Tiga Prinsip Rakyat menjadi gagasan penting dalam perubahan politik Tiongkok. Siapakah tokoh yang merumuskannya?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sun Yat-sen",
+              "correct": true,
+              "feedback": "Sun Yat-sen dikenal sebagai tokoh nasionalis Tiongkok dan pencetus gagasan San Min Chu I."
+            },
+            {
+              "id": "B",
+              "text": "Mahatma Gandhi",
+              "correct": false,
+              "feedback": "Gandhi merupakan tokoh perjuangan kemerdekaan India."
+            },
+            {
+              "id": "C",
+              "text": "Mustafa Kemal Pasha",
+              "correct": false,
+              "feedback": "Mustafa Kemal Pasha memimpin gerakan nasionalisme dan modernisasi Turki."
+            },
+            {
+              "id": "D",
+              "text": "Jose Rizal",
+              "correct": false,
+              "feedback": "Jose Rizal merupakan tokoh kebangkitan nasional Filipina."
+            }
+          ]
+        },
+        {
+          "id": "p3-q4",
+          "number": 4,
+          "topic": "Perubahan strategi perjuangan setelah 1908",
+          "type": "pg",
+          "stem": "Manakah gambaran yang paling tepat untuk menjelaskan karakter perjuangan bangsa Indonesia setelah 1908?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perlawanan lokal yang dipimpin raja dengan peperangan",
+              "correct": false,
+              "feedback": "Ciri tersebut lebih menggambarkan perjuangan sebelum 1908."
+            },
+            {
+              "id": "B",
+              "text": "Perjuangan yang hanya berpusat di desa dan pedalaman",
+              "correct": false,
+              "feedback": "Pusat perjuangan sesudah 1908 semakin berkembang di kota-kota."
+            },
+            {
+              "id": "C",
+              "text": "Perjuangan yang sepenuhnya mengandalkan kekuatan bangsawan",
+              "correct": false,
+              "feedback": "Sesudah 1908, golongan terpelajar dan organisasi modern semakin berperan."
+            },
+            {
+              "id": "D",
+              "text": "Perjuangan nasional melalui organisasi yang dipimpin kaum terpelajar",
+              "correct": true,
+              "feedback": "Sesudah 1908 perjuangan semakin nasional, dipimpin kaum terpelajar, dan dilakukan melalui organisasi."
+            }
+          ]
+        },
+        {
+          "id": "p3-q5",
+          "number": 5,
+          "topic": "Budi Utomo dan Sarekat Islam",
+          "type": "pg",
+          "stem": "Untuk membandingkan dua organisasi awal pergerakan nasional, pasangan fokus yang benar adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Budi Utomo: komunisme; Sarekat Islam: pendidikan perempuan",
+              "correct": false,
+              "feedback": "Pasangan ini tidak sesuai dengan orientasi utama kedua organisasi."
+            },
+            {
+              "id": "B",
+              "text": "Budi Utomo: diplomasi luar negeri; Sarekat Islam: gerakan militer",
+              "correct": false,
+              "feedback": "Keduanya berkembang sebagai organisasi pergerakan, bukan organisasi militer."
+            },
+            {
+              "id": "C",
+              "text": "Budi Utomo: pendidikan dan budaya; Sarekat Islam: ekonomi, sosial, dan politik",
+              "correct": true,
+              "feedback": "Budi Utomo berorientasi pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dari kepentingan ekonomi dan meluas ke bidang sosial-politik."
+            },
+            {
+              "id": "D",
+              "text": "Budi Utomo: perjuangan bersenjata; Sarekat Islam: pendidikan Barat",
+              "correct": false,
+              "feedback": "Keduanya bukan organisasi yang dibedakan oleh pasangan orientasi tersebut."
+            }
+          ]
+        },
+        {
+          "id": "p3-q6",
+          "number": 6,
+          "topic": "Klasifikasi organisasi pergerakan",
+          "type": "pg",
+          "stem": "Manakah klasifikasi organisasi pergerakan yang sesuai dengan fokus gerakannya?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perhimpunan Indonesia – organisasi kerajaan; PKI – organisasi pendidikan; Budi Utomo – gerakan militer",
+              "correct": false,
+              "feedback": "Ketiga pasangan tersebut tidak menggambarkan karakter organisasi pergerakan."
+            },
+            {
+              "id": "B",
+              "text": "Taman Siswa – pendidikan nasional; Muhammadiyah – pembaruan Islam; Indische Partij – politik kebangsaan",
+              "correct": true,
+              "feedback": "Taman Siswa bergerak dalam pendidikan, Muhammadiyah dalam pembaruan sosial-keagamaan, dan Indische Partij dalam politik kebangsaan."
+            },
+            {
+              "id": "C",
+              "text": "Taman Siswa – gerakan militer; Muhammadiyah – perdagangan; Indische Partij – pendidikan pesantren",
+              "correct": false,
+              "feedback": "Ketiga bidang tersebut tidak sesuai dengan fokus utama organisasi yang disebutkan."
+            },
+            {
+              "id": "D",
+              "text": "NU – organisasi dagang; Sarekat Islam – sekolah nasional; Budi Utomo – partai komunis",
+              "correct": false,
+              "feedback": "Klasifikasi ini tidak sesuai dengan sejarah dan orientasi organisasi tersebut."
+            }
+          ]
+        },
+        {
+          "id": "p3-q7",
+          "number": 7,
+          "topic": "Makna berdirinya Budi Utomo",
+          "type": "pg",
+          "stem": "Makna penting berdirinya Budi Utomo dalam sejarah pergerakan Indonesia terletak pada ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menjadi tonggak berkembangnya organisasi modern yang membangkitkan kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Budi Utomo menjadi simbol awal kebangkitan melalui organisasi modern dan kesadaran yang lebih terorganisasi."
+            },
+            {
+              "id": "B",
+              "text": "Menandai proklamasi kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Proklamasi kemerdekaan berlangsung pada 17 Agustus 1945."
+            },
+            {
+              "id": "C",
+              "text": "Menandai berakhirnya seluruh pemerintahan kolonial Belanda",
+              "correct": false,
+              "feedback": "Kekuasaan kolonial Belanda berakhir pada 1942 setelah menyerah kepada Jepang."
+            },
+            {
+              "id": "D",
+              "text": "Menandai dimulainya perjuangan bersenjata di seluruh wilayah Indonesia",
+              "correct": false,
+              "feedback": "Budi Utomo justru menjadi tonggak pergerakan melalui organisasi, bukan awal perang serentak."
+            }
+          ]
+        },
+        {
+          "id": "p3-q8",
+          "number": 8,
+          "topic": "Tiga Serangkai – Indische Partij",
+          "type": "pg",
+          "stem": "Pasangan nama yang tepat untuk melengkapi daftar Tiga Serangkai ialah Danudirja Setiabudi, dr. Cipto Mangunkusumo, dan ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soekarno, Mohammad Hatta, dan Sutan Sjahrir",
+              "correct": false,
+              "feedback": "Ketiganya merupakan tokoh penting pada periode berikutnya, bukan Tiga Serangkai pendiri Indische Partij."
+            },
+            {
+              "id": "B",
+              "text": "Ki Bagus Hadikusumo, Ahmad Dahlan, dan Hasyim Asy'ari",
+              "correct": false,
+              "feedback": "Nama-nama tersebut berkaitan dengan perkembangan organisasi Islam, bukan pendiri Indische Partij."
+            },
+            {
+              "id": "C",
+              "text": "Sutomo, Wahidin Sudirohusodo, dan Gunawan Mangunkusumo",
+              "correct": false,
+              "feedback": "Tokoh-tokoh tersebut berkaitan dengan lingkungan Budi Utomo, bukan Tiga Serangkai."
+            },
+            {
+              "id": "D",
+              "text": "E.F.E. Douwes Dekker, dr. Cipto Mangunkusumo, dan Suwardi Suryaningrat",
+              "correct": true,
+              "feedback": "Tiga Serangkai terdiri atas Douwes Dekker, Cipto Mangunkusumo, dan Suwardi Suryaningrat."
+            }
+          ]
+        },
+        {
+          "id": "p3-q9",
+          "number": 9,
+          "topic": "Perkembangan Sarekat Islam",
+          "type": "pg",
+          "stem": "Mengapa Sarekat Islam mampu menarik anggota dari berbagai lapisan masyarakat?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kewajiban mengikuti pendidikan militer kolonial",
+              "correct": false,
+              "feedback": "Pendidikan militer kolonial bukan faktor utama perluasan dukungan Sarekat Islam."
+            },
+            {
+              "id": "B",
+              "text": "Dukungan penuh pemerintah kolonial terhadap kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Sarekat Islam berkembang dalam situasi kolonial dan bukan karena dukungan pemerintah untuk kemerdekaan."
+            },
+            {
+              "id": "C",
+              "text": "Identitas Islam yang menyatukan anggota serta perhatian pada kepentingan ekonomi rakyat",
+              "correct": true,
+              "feedback": "Identitas keislaman menjadi pemersatu, sementara kepentingan ekonomi membuat organisasi dekat dengan kebutuhan masyarakat."
+            },
+            {
+              "id": "D",
+              "text": "Keanggotaan yang hanya terbatas pada bangsawan Jawa",
+              "correct": false,
+              "feedback": "Sarekat Islam justru berkembang sebagai organisasi dengan dukungan massa yang luas."
+            }
+          ]
+        },
+        {
+          "id": "p3-q10",
+          "number": 10,
+          "topic": "Perpecahan Sarekat Islam",
+          "type": "pg",
+          "stem": "SI Putih dan SI Merah menunjukkan dinamika internal Sarekat Islam. Pemicu perpecahan keduanya ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Persaingan untuk menguasai perdagangan rempah di Maluku",
+              "correct": false,
+              "feedback": "Persaingan perdagangan rempah bukan faktor utama perpecahan internal Sarekat Islam."
+            },
+            {
+              "id": "B",
+              "text": "Perbedaan ideologi dan pengaruh sosialisme-komunisme dalam organisasi",
+              "correct": true,
+              "feedback": "Perbedaan orientasi ideologi memisahkan kelompok yang mempertahankan garis Islam dengan kelompok yang dipengaruhi sosialisme-komunisme."
+            },
+            {
+              "id": "C",
+              "text": "Perselisihan tentang penggunaan bahasa daerah dalam kongres",
+              "correct": false,
+              "feedback": "Perbedaan bahasa bukan penyebab utama perpecahan SI Putih dan SI Merah."
+            },
+            {
+              "id": "D",
+              "text": "Perbedaan pendapat mengenai lokasi ibu kota Republik Indonesia",
+              "correct": false,
+              "feedback": "Persoalan ibu kota Republik Indonesia tidak menjadi pemicu perpecahan Sarekat Islam."
+            }
+          ]
+        },
+        {
+          "id": "p3-q11",
+          "number": 11,
+          "topic": "Muhammadiyah dan Nahdlatul Ulama",
+          "type": "pg",
+          "stem": "Manakah pernyataan yang tepat mengenai orientasi Muhammadiyah dan Nahdlatul Ulama?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammadiyah menekankan pembaruan pendidikan dan sosial; NU menjaga tradisi keilmuan pesantren dan Aswaja",
+              "correct": true,
+              "feedback": "Muhammadiyah dikenal dengan pembaruan pendidikan dan sosial-keagamaan, sedangkan NU berakar kuat pada tradisi ulama dan pesantren."
+            },
+            {
+              "id": "B",
+              "text": "Muhammadiyah bergerak dalam militer; NU bergerak dalam perdagangan internasional",
+              "correct": false,
+              "feedback": "Kedua organisasi bukan organisasi militer atau perdagangan internasional."
+            },
+            {
+              "id": "C",
+              "text": "Muhammadiyah berfokus pada nasionalisme Tiongkok; NU pada nasionalisme India",
+              "correct": false,
+              "feedback": "Keduanya merupakan organisasi Islam di Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Muhammadiyah menolak pendidikan; NU hanya bergerak dalam politik luar negeri",
+              "correct": false,
+              "feedback": "Keduanya berperan dalam kehidupan sosial dan pendidikan umat."
+            }
+          ]
+        },
+        {
+          "id": "p3-q12",
+          "number": 12,
+          "topic": "Perkembangan gerakan pemuda 1915–1928",
+          "type": "pg",
+          "stem": "Perubahan orientasi gerakan pemuda menjelang Sumpah Pemuda ditandai oleh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dari persatuan nasional menuju pemisahan berdasarkan daerah",
+              "correct": false,
+              "feedback": "Arah perkembangan justru bergerak menuju persatuan nasional."
+            },
+            {
+              "id": "B",
+              "text": "Dari organisasi modern menuju perlawanan kerajaan",
+              "correct": false,
+              "feedback": "Gerakan pemuda berkembang melalui organisasi dan kongres, bukan kembali ke pola kerajaan."
+            },
+            {
+              "id": "C",
+              "text": "Dari perjuangan pendidikan menuju dukungan terhadap kolonialisme",
+              "correct": false,
+              "feedback": "Gerakan pemuda semakin menegaskan kesadaran kebangsaan, bukan mendukung kolonialisme."
+            },
+            {
+              "id": "D",
+              "text": "Dari identitas kedaerahan menuju persatuan dan identitas nasional Indonesia",
+              "correct": true,
+              "feedback": "Gerakan pemuda berkembang dari organisasi bercorak daerah menuju orientasi kebangsaan dan persatuan Indonesia."
+            }
+          ]
+        },
+        {
+          "id": "p3-q13",
+          "number": 13,
+          "topic": "Isi ikrar Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Manakah rangkaian pokok ikrar yang sesuai dengan Sumpah Pemuda?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satu pulau, satu suku, dan satu pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Ikrar tersebut menekankan identitas nasional Indonesia, bukan kesatuan satu pulau atau suku."
+            },
+            {
+              "id": "B",
+              "text": "Satu wilayah Jawa, satu bangsa daerah, dan bahasa Belanda",
+              "correct": false,
+              "feedback": "Sumpah Pemuda menegaskan Indonesia sebagai tanah air dan bangsa serta Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "C",
+              "text": "Satu tanah air Indonesia, satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda menegaskan tanah air Indonesia, bangsa Indonesia, dan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "D",
+              "text": "Satu kerajaan, satu agama resmi, dan satu bahasa daerah",
+              "correct": false,
+              "feedback": "Rumusan Sumpah Pemuda tidak berbicara tentang pembentukan kerajaan atau penetapan agama resmi."
+            }
+          ]
+        },
+        {
+          "id": "p3-q14",
+          "number": 14,
+          "topic": "Kongres Pemuda I – Muhammad Yamin",
+          "type": "pg",
+          "stem": "Materi Kongres Pemuda I tentang kemungkinan perkembangan bahasa dan kesusastraan Indonesia dikemukakan oleh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bahder Djohan",
+              "correct": false,
+              "feedback": "Bahder Djohan membahas kedudukan wanita dalam masyarakat Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Muhammad Yamin",
+              "correct": true,
+              "feedback": "Muhammad Yamin membawakan pembahasan tentang kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang."
+            },
+            {
+              "id": "C",
+              "text": "Soegondo Djojopoespito",
+              "correct": false,
+              "feedback": "Soegondo dikenal sebagai ketua PPPI dan Kongres Pemuda II."
+            },
+            {
+              "id": "D",
+              "text": "M. Tabrani",
+              "correct": false,
+              "feedback": "M. Tabrani memimpin komite penyelenggara yang merencanakan Kongres Pemuda I."
+            }
+          ]
+        },
+        {
+          "id": "p3-q15",
+          "number": 15,
+          "topic": "Arti penting Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Jika berbagai organisasi pemuda sebelumnya memiliki identitas daerah, arti penting Sumpah Pemuda ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Memperkuat identitas nasional, persatuan, dan penggunaan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat identitas kebangsaan dan solidaritas lintas daerah serta menegaskan bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Menghapus seluruh organisasi pemuda dan melarang kegiatan pendidikan",
+              "correct": false,
+              "feedback": "Sumpah Pemuda mendorong persatuan, bukan menghapus aktivitas organisasi dan pendidikan."
+            },
+            {
+              "id": "C",
+              "text": "Menetapkan Indonesia langsung menjadi negara merdeka",
+              "correct": false,
+              "feedback": "Kemerdekaan Indonesia baru diproklamasikan pada 17 Agustus 1945."
+            },
+            {
+              "id": "D",
+              "text": "Mengembalikan perjuangan ke kelompok kerajaan dan daerah",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru memperkuat orientasi nasional melampaui identitas kedaerahan."
+            }
+          ]
+        },
+        {
+          "id": "p3-q16",
+          "number": 16,
+          "topic": "Peran pers pada masa pergerakan",
+          "type": "pg",
+          "stem": "Mengapa pers menjadi sarana penting dalam perkembangan nasionalisme Indonesia?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menggantikan seluruh organisasi pergerakan dengan pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Pers mendukung perkembangan kesadaran dan mobilisasi pergerakan, bukan menggantikannya dengan pemerintahan kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Membatasi informasi agar masyarakat tidak mengetahui kondisi politik",
+              "correct": false,
+              "feedback": "Pers pergerakan justru memperluas informasi dan wawasan masyarakat."
+            },
+            {
+              "id": "C",
+              "text": "Menjadi alat utama untuk mengatur perdagangan rempah",
+              "correct": false,
+              "feedback": "Fungsi pers yang dibahas dalam pergerakan nasional berkaitan dengan informasi dan kesadaran kebangsaan."
+            },
+            {
+              "id": "D",
+              "text": "Menyebarkan gagasan kebangsaan, mengkritik kolonialisme, dan membangun kesadaran masyarakat",
+              "correct": true,
+              "feedback": "Pers menjadi sarana komunikasi, pendidikan politik, kritik kolonial, dan penyebaran gagasan nasionalisme."
+            }
+          ]
+        },
+        {
+          "id": "p3-q17",
+          "number": 17,
+          "topic": "Surat kabar De Express",
+          "type": "pg",
+          "stem": "Nama surat kabar yang dikenal radikal pada masa pergerakan nasional dan menjadi perhatian pemerintah kolonial ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pewarta Prijaji",
+              "correct": false,
+              "feedback": "Pewarta Prijaji merupakan salah satu penerbitan bumiputra, bukan surat kabar yang dimaksud."
+            },
+            {
+              "id": "B",
+              "text": "Sinar Djawa",
+              "correct": false,
+              "feedback": "Sinar Djawa berperan menyebarkan gagasan pendidikan dan pergerakan, tetapi bukan nama surat kabar yang dimaksud pada indikator ini."
+            },
+            {
+              "id": "C",
+              "text": "De Express",
+              "correct": true,
+              "feedback": "De Express dikenal sebagai surat kabar radikal yang berkaitan dengan lingkungan Indische Partij dan mendapat perhatian pemerintah kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Bintang Hindia",
+              "correct": false,
+              "feedback": "Bintang Hindia merupakan surat kabar yang disebut dalam perkembangan pers, tetapi bukan jawaban indikator ini."
+            }
+          ]
+        },
+        {
+          "id": "p3-q18",
+          "number": 18,
+          "topic": "Fungsi pers dalam pergerakan nasional",
+          "type": "pg",
+          "stem": "Di antara kegiatan berikut, manakah yang menunjukkan fungsi pers dalam membangun pergerakan nasional?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mendukung monopoli kolonial, menutup diskusi, dan menghilangkan berita",
+              "correct": false,
+              "feedback": "Pers pergerakan justru digunakan untuk mengkritik ketidakadilan kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Menyebarkan informasi, menyampaikan kritik, dan memobilisasi kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Ketiga fungsi tersebut sesuai dengan peran pers sebagai media informasi, kritik, dan mobilisasi pergerakan."
+            },
+            {
+              "id": "C",
+              "text": "Membatasi pendidikan, menghapus organisasi, dan memperkuat sensor masyarakat",
+              "correct": false,
+              "feedback": "Tindakan tersebut bertentangan dengan fungsi pers sebagai penyebar informasi dan gagasan."
+            },
+            {
+              "id": "D",
+              "text": "Menggantikan kongres pemuda, membentuk tentara, dan mengatur pajak",
+              "correct": false,
+              "feedback": "Pers bukan lembaga kongres, militer, atau pemungut pajak."
+            }
+          ]
+        },
+        {
+          "id": "p3-q19",
+          "number": 19,
+          "topic": "Wabah penyakit awal abad ke-20",
+          "type": "pg",
+          "stem": "Penyakit yang menjadi salah satu wabah utama di Hindia Belanda pada awal abad ke-20 dan berlangsung di Jawa pada 1910–1936 ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pes",
+              "correct": true,
+              "feedback": "Materi menyebut wabah pes di Pulau Jawa sepanjang 1910–1936 yang menyebabkan puluhan ribu korban jiwa."
+            },
+            {
+              "id": "B",
+              "text": "Kolera pada 1945–1949",
+              "correct": false,
+              "feedback": "Rentang waktu dan penyakit tersebut tidak sesuai dengan indikator wabah 1910–1936."
+            },
+            {
+              "id": "C",
+              "text": "Malaria pada 1960–1970",
+              "correct": false,
+              "feedback": "Periode tersebut berada di luar rentang wabah yang ditanyakan."
+            },
+            {
+              "id": "D",
+              "text": "Cacar pada 1880–1890",
+              "correct": false,
+              "feedback": "Periode tersebut tidak sesuai dengan data wabah pes 1910–1936 dalam materi."
+            }
+          ]
+        },
+        {
+          "id": "p3-q20",
+          "number": 20,
+          "topic": "Akhir kekuasaan kolonial Belanda",
+          "type": "pg",
+          "stem": "Peristiwa apakah yang menjadi penanda pergantian kekuasaan dari Belanda kepada Jepang di Hindia Belanda?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjanjian Renville",
+              "correct": false,
+              "feedback": "Perjanjian Renville berlangsung pada masa revolusi kemerdekaan Indonesia setelah 1945."
+            },
+            {
+              "id": "B",
+              "text": "Perjanjian Linggarjati",
+              "correct": false,
+              "feedback": "Perjanjian Linggarjati merupakan perundingan Indonesia-Belanda setelah proklamasi kemerdekaan."
+            },
+            {
+              "id": "C",
+              "text": "Konferensi Meja Bundar",
+              "correct": false,
+              "feedback": "Konferensi Meja Bundar berlangsung pada 1949 dan berkaitan dengan pengakuan kedaulatan."
+            },
+            {
+              "id": "D",
+              "text": "Kapitulasi Kalijati",
+              "correct": true,
+              "feedback": "Kapitulasi Kalijati ditandatangani pada 8 Maret 1942 dan menandai berakhirnya kekuasaan kolonial Belanda serta dimulainya pendudukan Jepang."
+            }
+          ]
+        },
+        {
+          "id": "p3-q21",
+          "number": 21,
+          "topic": "Faktor perubahan strategi perjuangan",
+          "type": "mcma",
+          "stem": "Manakah faktor yang ikut menjelaskan lahirnya organisasi pergerakan modern di Indonesia? Pilih semua yang tepat.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Pengaruh paham nasionalisme dan gerakan bangsa Asia",
+              "correct": true,
+              "feedback": "Perkembangan nasionalisme di Asia memberi inspirasi bagi pergerakan Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Keinginan untuk kembali membatasi perjuangan pada wilayah kerajaan",
+              "correct": false,
+              "feedback": "Perubahan strategi justru bergerak melampaui perjuangan kedaerahan menuju organisasi dan orientasi nasional."
+            },
+            {
+              "id": "C",
+              "text": "Munculnya golongan terpelajar akibat perkembangan pendidikan",
+              "correct": true,
+              "feedback": "Pendidikan melahirkan kaum terpelajar yang mampu mengembangkan gagasan dan organisasi modern."
+            },
+            {
+              "id": "D",
+              "text": "Pengalaman senasib akibat imperialisme dan kolonialisme",
+              "correct": true,
+              "feedback": "Kesamaan nasib menumbuhkan solidaritas dan kesadaran untuk memperjuangkan kepentingan bersama."
+            }
+          ]
+        },
+        {
+          "id": "p3-q22",
+          "number": 22,
+          "topic": "Dampak jangka panjang Sumpah Pemuda",
+          "type": "mcma",
+          "stem": "Manakah akibat jangka panjang Sumpah Pemuda terhadap identitas dan persatuan nasional? Pilih semua yang sesuai.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mendorong setiap organisasi kembali mengutamakan kepentingan daerah masing-masing",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru mengatasi sekat kedaerahan dan menegaskan orientasi nasional."
+            },
+            {
+              "id": "B",
+              "text": "Memperkuat identitas sebagai satu bangsa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat kesadaran bahwa masyarakat dari berbagai daerah merupakan satu bangsa."
+            },
+            {
+              "id": "C",
+              "text": "Mendorong penggunaan Bahasa Indonesia sebagai bahasa persatuan",
+              "correct": true,
+              "feedback": "Ikrar ketiga menegaskan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "D",
+              "text": "Memperkuat solidaritas lintas daerah dalam perjuangan kemerdekaan",
+              "correct": true,
+              "feedback": "Persatuan pemuda membantu memperkuat kerja sama lintas daerah dalam pergerakan nasional."
+            }
+          ]
+        },
+        {
+          "id": "p3-q23",
+          "number": 23,
+          "topic": "Dinamika organisasi pergerakan nasional",
+          "type": "mcma",
+          "stem": "Manakah pernyataan yang sesuai dengan perkembangan organisasi pergerakan nasional? Pilih semua jawaban benar.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Organisasi pergerakan memiliki bidang dan orientasi yang beragam",
+              "correct": true,
+              "feedback": "Ada organisasi yang menekankan pendidikan, ekonomi, agama, sosial, maupun politik kebangsaan."
+            },
+            {
+              "id": "B",
+              "text": "Perbedaan ideologi dapat memengaruhi dinamika internal organisasi",
+              "correct": true,
+              "feedback": "Perpecahan Sarekat Islam menunjukkan bahwa perbedaan ideologi dapat memengaruhi arah organisasi."
+            },
+            {
+              "id": "C",
+              "text": "Organisasi modern menjadi sarana perjuangan di luar perlawanan fisik kedaerahan",
+              "correct": true,
+              "feedback": "Organisasi merupakan bentuk perjuangan yang semakin terstruktur dan berorientasi nasional."
+            },
+            {
+              "id": "D",
+              "text": "Seluruh organisasi memiliki tujuan, ideologi, dan cara perjuangan yang sama persis",
+              "correct": false,
+              "feedback": "Organisasi pergerakan memiliki latar belakang, bidang, ideologi, dan strategi yang tidak selalu sama."
+            }
+          ]
+        },
+        {
+          "id": "p3-q24",
+          "number": 24,
+          "topic": "Great Depression dan krisis sosial",
+          "type": "mcma",
+          "stem": "Manakah pernyataan yang benar mengenai dampak Great Depression terhadap masyarakat dan pemerintahan kolonial? Pilih semua.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Usaha perkebunan perdagangan seperti gula dan karet mengalami kesulitan",
+              "correct": true,
+              "feedback": "Komoditas gula dan karet termasuk sektor yang terdampak krisis."
+            },
+            {
+              "id": "B",
+              "text": "Kesempatan kerja, pendapatan, dan daya beli masyarakat menurun",
+              "correct": true,
+              "feedback": "Berkurangnya penerimaan negara dan aktivitas ekonomi berdampak pada pekerjaan, pendapatan, serta daya beli."
+            },
+            {
+              "id": "C",
+              "text": "Krisis tersebut otomatis memperkuat stabilitas kolonial karena pendapatan negara meningkat",
+              "correct": false,
+              "feedback": "Krisis mengurangi penerimaan dan memperburuk kondisi sosial-ekonomi, sehingga menambah tekanan terhadap pemerintahan kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Harga komoditas ekspor dan permintaan pasar internasional mengalami penurunan",
+              "correct": true,
+              "feedback": "Materi menyebut turunnya harga pasar dan permintaan komoditas internasional sebagai dampak Great Depression."
+            }
+          ]
+        },
+        {
+          "id": "p3-q25",
+          "number": 25,
+          "topic": "Makna historis Kapitulasi Kalijati",
+          "type": "mcma",
+          "stem": "Manakah kesimpulan yang benar mengenai arti Kapitulasi Kalijati dalam sejarah Indonesia? Pilih semua.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menjadi babak baru dalam perjalanan sejarah menuju kemerdekaan Indonesia",
+              "correct": true,
+              "feedback": "Pergantian kekuasaan membuka fase sejarah baru yang kemudian berhubungan dengan proses menuju kemerdekaan."
+            },
+            {
+              "id": "B",
+              "text": "Merupakan peristiwa Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi pada 1942 dan bukan proklamasi kemerdekaan Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Menandai berakhirnya pemerintahan kolonial Belanda di Hindia Belanda",
+              "correct": true,
+              "feedback": "Penyerahan pada 8 Maret 1942 mengakhiri kekuasaan kolonial Belanda di wilayah tersebut."
+            },
+            {
+              "id": "D",
+              "text": "Menandai dimulainya pendudukan Jepang di Indonesia",
+              "correct": true,
+              "feedback": "Setelah Belanda menyerah, kekuasaan beralih kepada Jepang dan dimulailah masa pendudukan Jepang."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Paket 04",
+      "questions": [
+        {
+          "id": "p4-q1",
+          "number": 1,
+          "topic": "Faktor eksternal pergerakan nasional",
+          "type": "pg",
+          "stem": "Pergerakan nasional Indonesia tidak lahir dalam ruang kosong. Salah satu pengaruh dari luar negeri yang meningkatkan kepercayaan diri bangsa Asia adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kapitulasi Kalijati pada 1942",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi jauh setelah awal kebangkitan nasional dan bukan faktor pendorong awal."
+            },
+            {
+              "id": "B",
+              "text": "Kemenangan Jepang atas Rusia pada 1905",
+              "correct": true,
+              "feedback": "Kemenangan Jepang atas Rusia menunjukkan bahwa bangsa Asia mampu mengalahkan kekuatan Eropa."
+            },
+            {
+              "id": "C",
+              "text": "Berdirinya Budi Utomo pada 1908",
+              "correct": false,
+              "feedback": "Budi Utomo merupakan perkembangan dari dalam Indonesia, sehingga termasuk faktor internal."
+            },
+            {
+              "id": "D",
+              "text": "Pelaksanaan Kongres Pemuda II pada 1928",
+              "correct": false,
+              "feedback": "Kongres Pemuda II merupakan bagian dari proses pergerakan di Indonesia, bukan pengaruh luar."
+            }
+          ]
+        },
+        {
+          "id": "p4-q2",
+          "number": 2,
+          "topic": "Nasionalisme India – ajaran Mahatma Gandhi",
+          "type": "pg",
+          "stem": "Empat strategi Mahatma Gandhi sering muncul dalam soal sejarah. Jika deskripsi diberikan berurutan berupa anti-kekerasan, mogok, perlawanan tanpa kerja sama, dan boikot barang Inggris, urutannya ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ahimsa – Hartal – Satyagraha – Swadeshi",
+              "correct": true,
+              "feedback": "Ahimsa berarti anti-kekerasan; Hartal adalah pemogokan; Satyagraha menekankan keteguhan pada kebenaran dan non-kooperasi; Swadeshi mengutamakan produk sendiri."
+            },
+            {
+              "id": "B",
+              "text": "Hartal – Ahimsa – Swadeshi – Satyagraha",
+              "correct": false,
+              "feedback": "Urutan ini menukar makna istilah: Ahimsa adalah anti-kekerasan dan Hartal adalah pemogokan."
+            },
+            {
+              "id": "C",
+              "text": "Satyagraha – Swadeshi – Ahimsa – Hartal",
+              "correct": false,
+              "feedback": "Satyagraha bukan istilah untuk anti-kekerasan secara umum, sedangkan Swadeshi berkaitan dengan kemandirian produk."
+            },
+            {
+              "id": "D",
+              "text": "Swadeshi – Satyagraha – Hartal – Ahimsa",
+              "correct": false,
+              "feedback": "Swadeshi adalah gerakan memakai produk sendiri, bukan istilah pertama untuk prinsip anti-kekerasan."
+            }
+          ]
+        },
+        {
+          "id": "p4-q3",
+          "number": 3,
+          "topic": "Nasionalisme Tiongkok – San Min Chu I",
+          "type": "pg",
+          "stem": "Ketika mempelajari runtuhnya Dinasti Manchu dan lahirnya Republik Tiongkok, nama tokoh nasionalis yang harus diingat adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mahatma Gandhi",
+              "correct": false,
+              "feedback": "Gandhi merupakan tokoh perjuangan kemerdekaan India."
+            },
+            {
+              "id": "B",
+              "text": "Mustafa Kemal Pasha",
+              "correct": false,
+              "feedback": "Mustafa Kemal Pasha memimpin gerakan nasionalisme dan modernisasi Turki."
+            },
+            {
+              "id": "C",
+              "text": "Jose Rizal",
+              "correct": false,
+              "feedback": "Jose Rizal merupakan tokoh kebangkitan nasional Filipina."
+            },
+            {
+              "id": "D",
+              "text": "Sun Yat-sen",
+              "correct": true,
+              "feedback": "Sun Yat-sen dikenal sebagai tokoh nasionalis Tiongkok dan pencetus gagasan San Min Chu I."
+            }
+          ]
+        },
+        {
+          "id": "p4-q4",
+          "number": 4,
+          "topic": "Perubahan strategi perjuangan setelah 1908",
+          "type": "pg",
+          "stem": "Perubahan strategi perjuangan pada awal abad ke-20 menunjukkan peralihan dari perlawanan kedaerahan menuju ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjuangan yang hanya berpusat di desa dan pedalaman",
+              "correct": false,
+              "feedback": "Pusat perjuangan sesudah 1908 semakin berkembang di kota-kota."
+            },
+            {
+              "id": "B",
+              "text": "Perjuangan yang sepenuhnya mengandalkan kekuatan bangsawan",
+              "correct": false,
+              "feedback": "Sesudah 1908, golongan terpelajar dan organisasi modern semakin berperan."
+            },
+            {
+              "id": "C",
+              "text": "Perjuangan nasional melalui organisasi yang dipimpin kaum terpelajar",
+              "correct": true,
+              "feedback": "Sesudah 1908 perjuangan semakin nasional, dipimpin kaum terpelajar, dan dilakukan melalui organisasi."
+            },
+            {
+              "id": "D",
+              "text": "Perlawanan lokal yang dipimpin raja dengan peperangan",
+              "correct": false,
+              "feedback": "Ciri tersebut lebih menggambarkan perjuangan sebelum 1908."
+            }
+          ]
+        },
+        {
+          "id": "p4-q5",
+          "number": 5,
+          "topic": "Budi Utomo dan Sarekat Islam",
+          "type": "pg",
+          "stem": "Manakah pernyataan yang menunjukkan perbedaan orientasi Budi Utomo dengan Sarekat Islam?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Budi Utomo: diplomasi luar negeri; Sarekat Islam: gerakan militer",
+              "correct": false,
+              "feedback": "Keduanya berkembang sebagai organisasi pergerakan, bukan organisasi militer."
+            },
+            {
+              "id": "B",
+              "text": "Budi Utomo: pendidikan dan budaya; Sarekat Islam: ekonomi, sosial, dan politik",
+              "correct": true,
+              "feedback": "Budi Utomo berorientasi pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dari kepentingan ekonomi dan meluas ke bidang sosial-politik."
+            },
+            {
+              "id": "C",
+              "text": "Budi Utomo: perjuangan bersenjata; Sarekat Islam: pendidikan Barat",
+              "correct": false,
+              "feedback": "Keduanya bukan organisasi yang dibedakan oleh pasangan orientasi tersebut."
+            },
+            {
+              "id": "D",
+              "text": "Budi Utomo: komunisme; Sarekat Islam: pendidikan perempuan",
+              "correct": false,
+              "feedback": "Pasangan ini tidak sesuai dengan orientasi utama kedua organisasi."
+            }
+          ]
+        },
+        {
+          "id": "p4-q6",
+          "number": 6,
+          "topic": "Klasifikasi organisasi pergerakan",
+          "type": "pg",
+          "stem": "Seorang siswa memasangkan organisasi dengan bidang perjuangannya. Pasangan yang benar ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Taman Siswa – pendidikan nasional; Muhammadiyah – pembaruan Islam; Indische Partij – politik kebangsaan",
+              "correct": true,
+              "feedback": "Taman Siswa bergerak dalam pendidikan, Muhammadiyah dalam pembaruan sosial-keagamaan, dan Indische Partij dalam politik kebangsaan."
+            },
+            {
+              "id": "B",
+              "text": "Taman Siswa – gerakan militer; Muhammadiyah – perdagangan; Indische Partij – pendidikan pesantren",
+              "correct": false,
+              "feedback": "Ketiga bidang tersebut tidak sesuai dengan fokus utama organisasi yang disebutkan."
+            },
+            {
+              "id": "C",
+              "text": "NU – organisasi dagang; Sarekat Islam – sekolah nasional; Budi Utomo – partai komunis",
+              "correct": false,
+              "feedback": "Klasifikasi ini tidak sesuai dengan sejarah dan orientasi organisasi tersebut."
+            },
+            {
+              "id": "D",
+              "text": "Perhimpunan Indonesia – organisasi kerajaan; PKI – organisasi pendidikan; Budi Utomo – gerakan militer",
+              "correct": false,
+              "feedback": "Ketiga pasangan tersebut tidak menggambarkan karakter organisasi pergerakan."
+            }
+          ]
+        },
+        {
+          "id": "p4-q7",
+          "number": 7,
+          "topic": "Makna berdirinya Budi Utomo",
+          "type": "pg",
+          "stem": "Mengapa Budi Utomo sering ditempatkan sebagai penanda awal Kebangkitan Nasional?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai proklamasi kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Proklamasi kemerdekaan berlangsung pada 17 Agustus 1945."
+            },
+            {
+              "id": "B",
+              "text": "Menandai berakhirnya seluruh pemerintahan kolonial Belanda",
+              "correct": false,
+              "feedback": "Kekuasaan kolonial Belanda berakhir pada 1942 setelah menyerah kepada Jepang."
+            },
+            {
+              "id": "C",
+              "text": "Menandai dimulainya perjuangan bersenjata di seluruh wilayah Indonesia",
+              "correct": false,
+              "feedback": "Budi Utomo justru menjadi tonggak pergerakan melalui organisasi, bukan awal perang serentak."
+            },
+            {
+              "id": "D",
+              "text": "Menjadi tonggak berkembangnya organisasi modern yang membangkitkan kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Budi Utomo menjadi simbol awal kebangkitan melalui organisasi modern dan kesadaran yang lebih terorganisasi."
+            }
+          ]
+        },
+        {
+          "id": "p4-q8",
+          "number": 8,
+          "topic": "Tiga Serangkai – Indische Partij",
+          "type": "pg",
+          "stem": "Siapakah tokoh yang bersama Douwes Dekker dan Cipto Mangunkusumo mendirikan Indische Partij?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ki Bagus Hadikusumo, Ahmad Dahlan, dan Hasyim Asy'ari",
+              "correct": false,
+              "feedback": "Nama-nama tersebut berkaitan dengan perkembangan organisasi Islam, bukan pendiri Indische Partij."
+            },
+            {
+              "id": "B",
+              "text": "Sutomo, Wahidin Sudirohusodo, dan Gunawan Mangunkusumo",
+              "correct": false,
+              "feedback": "Tokoh-tokoh tersebut berkaitan dengan lingkungan Budi Utomo, bukan Tiga Serangkai."
+            },
+            {
+              "id": "C",
+              "text": "E.F.E. Douwes Dekker, dr. Cipto Mangunkusumo, dan Suwardi Suryaningrat",
+              "correct": true,
+              "feedback": "Tiga Serangkai terdiri atas Douwes Dekker, Cipto Mangunkusumo, dan Suwardi Suryaningrat."
+            },
+            {
+              "id": "D",
+              "text": "Soekarno, Mohammad Hatta, dan Sutan Sjahrir",
+              "correct": false,
+              "feedback": "Ketiganya merupakan tokoh penting pada periode berikutnya, bukan Tiga Serangkai pendiri Indische Partij."
+            }
+          ]
+        },
+        {
+          "id": "p4-q9",
+          "number": 9,
+          "topic": "Perkembangan Sarekat Islam",
+          "type": "pg",
+          "stem": "Perkembangan pesat Sarekat Islam tidak terlepas dari penggunaan identitas bersama yang kuat, yaitu ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dukungan penuh pemerintah kolonial terhadap kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Sarekat Islam berkembang dalam situasi kolonial dan bukan karena dukungan pemerintah untuk kemerdekaan."
+            },
+            {
+              "id": "B",
+              "text": "Identitas Islam yang menyatukan anggota serta perhatian pada kepentingan ekonomi rakyat",
+              "correct": true,
+              "feedback": "Identitas keislaman menjadi pemersatu, sementara kepentingan ekonomi membuat organisasi dekat dengan kebutuhan masyarakat."
+            },
+            {
+              "id": "C",
+              "text": "Keanggotaan yang hanya terbatas pada bangsawan Jawa",
+              "correct": false,
+              "feedback": "Sarekat Islam justru berkembang sebagai organisasi dengan dukungan massa yang luas."
+            },
+            {
+              "id": "D",
+              "text": "Kewajiban mengikuti pendidikan militer kolonial",
+              "correct": false,
+              "feedback": "Pendidikan militer kolonial bukan faktor utama perluasan dukungan Sarekat Islam."
+            }
+          ]
+        },
+        {
+          "id": "p4-q10",
+          "number": 10,
+          "topic": "Perpecahan Sarekat Islam",
+          "type": "pg",
+          "stem": "Manakah penjelasan paling tepat mengenai munculnya SI Putih dan SI Merah?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perbedaan ideologi dan pengaruh sosialisme-komunisme dalam organisasi",
+              "correct": true,
+              "feedback": "Perbedaan orientasi ideologi memisahkan kelompok yang mempertahankan garis Islam dengan kelompok yang dipengaruhi sosialisme-komunisme."
+            },
+            {
+              "id": "B",
+              "text": "Perselisihan tentang penggunaan bahasa daerah dalam kongres",
+              "correct": false,
+              "feedback": "Perbedaan bahasa bukan penyebab utama perpecahan SI Putih dan SI Merah."
+            },
+            {
+              "id": "C",
+              "text": "Perbedaan pendapat mengenai lokasi ibu kota Republik Indonesia",
+              "correct": false,
+              "feedback": "Persoalan ibu kota Republik Indonesia tidak menjadi pemicu perpecahan Sarekat Islam."
+            },
+            {
+              "id": "D",
+              "text": "Persaingan untuk menguasai perdagangan rempah di Maluku",
+              "correct": false,
+              "feedback": "Persaingan perdagangan rempah bukan faktor utama perpecahan internal Sarekat Islam."
+            }
+          ]
+        },
+        {
+          "id": "p4-q11",
+          "number": 11,
+          "topic": "Muhammadiyah dan Nahdlatul Ulama",
+          "type": "pg",
+          "stem": "Jika Muhammadiyah dikenal dengan pembaruan pendidikan Islam modern, NU secara historis kuat dalam ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammadiyah bergerak dalam militer; NU bergerak dalam perdagangan internasional",
+              "correct": false,
+              "feedback": "Kedua organisasi bukan organisasi militer atau perdagangan internasional."
+            },
+            {
+              "id": "B",
+              "text": "Muhammadiyah berfokus pada nasionalisme Tiongkok; NU pada nasionalisme India",
+              "correct": false,
+              "feedback": "Keduanya merupakan organisasi Islam di Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Muhammadiyah menolak pendidikan; NU hanya bergerak dalam politik luar negeri",
+              "correct": false,
+              "feedback": "Keduanya berperan dalam kehidupan sosial dan pendidikan umat."
+            },
+            {
+              "id": "D",
+              "text": "Muhammadiyah menekankan pembaruan pendidikan dan sosial; NU menjaga tradisi keilmuan pesantren dan Aswaja",
+              "correct": true,
+              "feedback": "Muhammadiyah dikenal dengan pembaruan pendidikan dan sosial-keagamaan, sedangkan NU berakar kuat pada tradisi ulama dan pesantren."
+            }
+          ]
+        },
+        {
+          "id": "p4-q12",
+          "number": 12,
+          "topic": "Perkembangan gerakan pemuda 1915–1928",
+          "type": "pg",
+          "stem": "Perkembangan organisasi pemuda memperlihatkan proses integrasi dari kelompok daerah menuju ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dari organisasi modern menuju perlawanan kerajaan",
+              "correct": false,
+              "feedback": "Gerakan pemuda berkembang melalui organisasi dan kongres, bukan kembali ke pola kerajaan."
+            },
+            {
+              "id": "B",
+              "text": "Dari perjuangan pendidikan menuju dukungan terhadap kolonialisme",
+              "correct": false,
+              "feedback": "Gerakan pemuda semakin menegaskan kesadaran kebangsaan, bukan mendukung kolonialisme."
+            },
+            {
+              "id": "C",
+              "text": "Dari identitas kedaerahan menuju persatuan dan identitas nasional Indonesia",
+              "correct": true,
+              "feedback": "Gerakan pemuda berkembang dari organisasi bercorak daerah menuju orientasi kebangsaan dan persatuan Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Dari persatuan nasional menuju pemisahan berdasarkan daerah",
+              "correct": false,
+              "feedback": "Arah perkembangan justru bergerak menuju persatuan nasional."
+            }
+          ]
+        },
+        {
+          "id": "p4-q13",
+          "number": 13,
+          "topic": "Isi ikrar Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Isi Sumpah Pemuda menjadi simbol persatuan karena menegaskan kesatuan wilayah, bangsa, dan ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satu wilayah Jawa, satu bangsa daerah, dan bahasa Belanda",
+              "correct": false,
+              "feedback": "Sumpah Pemuda menegaskan Indonesia sebagai tanah air dan bangsa serta Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Satu tanah air Indonesia, satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda menegaskan tanah air Indonesia, bangsa Indonesia, dan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "C",
+              "text": "Satu kerajaan, satu agama resmi, dan satu bahasa daerah",
+              "correct": false,
+              "feedback": "Rumusan Sumpah Pemuda tidak berbicara tentang pembentukan kerajaan atau penetapan agama resmi."
+            },
+            {
+              "id": "D",
+              "text": "Satu pulau, satu suku, dan satu pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Ikrar tersebut menekankan identitas nasional Indonesia, bukan kesatuan satu pulau atau suku."
+            }
+          ]
+        },
+        {
+          "id": "p4-q14",
+          "number": 14,
+          "topic": "Kongres Pemuda I – Muhammad Yamin",
+          "type": "pg",
+          "stem": "Nama tokoh yang tepat untuk melengkapi informasi mengenai pembicara Kongres Pemuda I tersebut adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammad Yamin",
+              "correct": true,
+              "feedback": "Muhammad Yamin membawakan pembahasan tentang kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang."
+            },
+            {
+              "id": "B",
+              "text": "Soegondo Djojopoespito",
+              "correct": false,
+              "feedback": "Soegondo dikenal sebagai ketua PPPI dan Kongres Pemuda II."
+            },
+            {
+              "id": "C",
+              "text": "M. Tabrani",
+              "correct": false,
+              "feedback": "M. Tabrani memimpin komite penyelenggara yang merencanakan Kongres Pemuda I."
+            },
+            {
+              "id": "D",
+              "text": "Bahder Djohan",
+              "correct": false,
+              "feedback": "Bahder Djohan membahas kedudukan wanita dalam masyarakat Indonesia."
+            }
+          ]
+        },
+        {
+          "id": "p4-q15",
+          "number": 15,
+          "topic": "Arti penting Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Makna strategis Sumpah Pemuda dalam proses menuju kemerdekaan adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menghapus seluruh organisasi pemuda dan melarang kegiatan pendidikan",
+              "correct": false,
+              "feedback": "Sumpah Pemuda mendorong persatuan, bukan menghapus aktivitas organisasi dan pendidikan."
+            },
+            {
+              "id": "B",
+              "text": "Menetapkan Indonesia langsung menjadi negara merdeka",
+              "correct": false,
+              "feedback": "Kemerdekaan Indonesia baru diproklamasikan pada 17 Agustus 1945."
+            },
+            {
+              "id": "C",
+              "text": "Mengembalikan perjuangan ke kelompok kerajaan dan daerah",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru memperkuat orientasi nasional melampaui identitas kedaerahan."
+            },
+            {
+              "id": "D",
+              "text": "Memperkuat identitas nasional, persatuan, dan penggunaan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat identitas kebangsaan dan solidaritas lintas daerah serta menegaskan bahasa persatuan."
+            }
+          ]
+        },
+        {
+          "id": "p4-q16",
+          "number": 16,
+          "topic": "Peran pers pada masa pergerakan",
+          "type": "pg",
+          "stem": "Artikel yang membahas ketidakadilan kolonial dan menyebarkan gagasan persatuan menunjukkan peran pers dalam ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Membatasi informasi agar masyarakat tidak mengetahui kondisi politik",
+              "correct": false,
+              "feedback": "Pers pergerakan justru memperluas informasi dan wawasan masyarakat."
+            },
+            {
+              "id": "B",
+              "text": "Menjadi alat utama untuk mengatur perdagangan rempah",
+              "correct": false,
+              "feedback": "Fungsi pers yang dibahas dalam pergerakan nasional berkaitan dengan informasi dan kesadaran kebangsaan."
+            },
+            {
+              "id": "C",
+              "text": "Menyebarkan gagasan kebangsaan, mengkritik kolonialisme, dan membangun kesadaran masyarakat",
+              "correct": true,
+              "feedback": "Pers menjadi sarana komunikasi, pendidikan politik, kritik kolonial, dan penyebaran gagasan nasionalisme."
+            },
+            {
+              "id": "D",
+              "text": "Menggantikan seluruh organisasi pergerakan dengan pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Pers mendukung perkembangan kesadaran dan mobilisasi pergerakan, bukan menggantikannya dengan pemerintahan kolonial."
+            }
+          ]
+        },
+        {
+          "id": "p4-q17",
+          "number": 17,
+          "topic": "Surat kabar De Express",
+          "type": "pg",
+          "stem": "Surat kabar yang terkait dengan lingkungan Indische Partij dan menjadi media kritik kolonial adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sinar Djawa",
+              "correct": false,
+              "feedback": "Sinar Djawa berperan menyebarkan gagasan pendidikan dan pergerakan, tetapi bukan nama surat kabar yang dimaksud pada indikator ini."
+            },
+            {
+              "id": "B",
+              "text": "De Express",
+              "correct": true,
+              "feedback": "De Express dikenal sebagai surat kabar radikal yang berkaitan dengan lingkungan Indische Partij dan mendapat perhatian pemerintah kolonial."
+            },
+            {
+              "id": "C",
+              "text": "Bintang Hindia",
+              "correct": false,
+              "feedback": "Bintang Hindia merupakan surat kabar yang disebut dalam perkembangan pers, tetapi bukan jawaban indikator ini."
+            },
+            {
+              "id": "D",
+              "text": "Pewarta Prijaji",
+              "correct": false,
+              "feedback": "Pewarta Prijaji merupakan salah satu penerbitan bumiputra, bukan surat kabar yang dimaksud."
+            }
+          ]
+        },
+        {
+          "id": "p4-q18",
+          "number": 18,
+          "topic": "Fungsi pers dalam pergerakan nasional",
+          "type": "pg",
+          "stem": "Surat kabar menjadi sarana penting bagi kaum pergerakan karena dapat ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menyebarkan informasi, menyampaikan kritik, dan memobilisasi kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Ketiga fungsi tersebut sesuai dengan peran pers sebagai media informasi, kritik, dan mobilisasi pergerakan."
+            },
+            {
+              "id": "B",
+              "text": "Membatasi pendidikan, menghapus organisasi, dan memperkuat sensor masyarakat",
+              "correct": false,
+              "feedback": "Tindakan tersebut bertentangan dengan fungsi pers sebagai penyebar informasi dan gagasan."
+            },
+            {
+              "id": "C",
+              "text": "Menggantikan kongres pemuda, membentuk tentara, dan mengatur pajak",
+              "correct": false,
+              "feedback": "Pers bukan lembaga kongres, militer, atau pemungut pajak."
+            },
+            {
+              "id": "D",
+              "text": "Mendukung monopoli kolonial, menutup diskusi, dan menghilangkan berita",
+              "correct": false,
+              "feedback": "Pers pergerakan justru digunakan untuk mengkritik ketidakadilan kolonial."
+            }
+          ]
+        },
+        {
+          "id": "p4-q19",
+          "number": 19,
+          "topic": "Wabah penyakit awal abad ke-20",
+          "type": "pg",
+          "stem": "Jika dikaitkan dengan wabah di Pulau Jawa pada 1910–1936, penyakit yang dimaksud adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kolera pada 1945–1949",
+              "correct": false,
+              "feedback": "Rentang waktu dan penyakit tersebut tidak sesuai dengan indikator wabah 1910–1936."
+            },
+            {
+              "id": "B",
+              "text": "Malaria pada 1960–1970",
+              "correct": false,
+              "feedback": "Periode tersebut berada di luar rentang wabah yang ditanyakan."
+            },
+            {
+              "id": "C",
+              "text": "Cacar pada 1880–1890",
+              "correct": false,
+              "feedback": "Periode tersebut tidak sesuai dengan data wabah pes 1910–1936 dalam materi."
+            },
+            {
+              "id": "D",
+              "text": "Pes",
+              "correct": true,
+              "feedback": "Materi menyebut wabah pes di Pulau Jawa sepanjang 1910–1936 yang menyebabkan puluhan ribu korban jiwa."
+            }
+          ]
+        },
+        {
+          "id": "p4-q20",
+          "number": 20,
+          "topic": "Akhir kekuasaan kolonial Belanda",
+          "type": "pg",
+          "stem": "Penyerahan Belanda kepada Jepang pada 8 Maret 1942 dikenal sebagai ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjanjian Linggarjati",
+              "correct": false,
+              "feedback": "Perjanjian Linggarjati merupakan perundingan Indonesia-Belanda setelah proklamasi kemerdekaan."
+            },
+            {
+              "id": "B",
+              "text": "Konferensi Meja Bundar",
+              "correct": false,
+              "feedback": "Konferensi Meja Bundar berlangsung pada 1949 dan berkaitan dengan pengakuan kedaulatan."
+            },
+            {
+              "id": "C",
+              "text": "Kapitulasi Kalijati",
+              "correct": true,
+              "feedback": "Kapitulasi Kalijati ditandatangani pada 8 Maret 1942 dan menandai berakhirnya kekuasaan kolonial Belanda serta dimulainya pendudukan Jepang."
+            },
+            {
+              "id": "D",
+              "text": "Perjanjian Renville",
+              "correct": false,
+              "feedback": "Perjanjian Renville berlangsung pada masa revolusi kemerdekaan Indonesia setelah 1945."
+            }
+          ]
+        },
+        {
+          "id": "p4-q21",
+          "number": 21,
+          "topic": "Faktor perubahan strategi perjuangan",
+          "type": "mcma",
+          "stem": "Perhatikan perkembangan masyarakat pada masa kolonial. Pilih semua kondisi yang mendorong munculnya organisasi modern.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Keinginan untuk kembali membatasi perjuangan pada wilayah kerajaan",
+              "correct": false,
+              "feedback": "Perubahan strategi justru bergerak melampaui perjuangan kedaerahan menuju organisasi dan orientasi nasional."
+            },
+            {
+              "id": "B",
+              "text": "Munculnya golongan terpelajar akibat perkembangan pendidikan",
+              "correct": true,
+              "feedback": "Pendidikan melahirkan kaum terpelajar yang mampu mengembangkan gagasan dan organisasi modern."
+            },
+            {
+              "id": "C",
+              "text": "Pengalaman senasib akibat imperialisme dan kolonialisme",
+              "correct": true,
+              "feedback": "Kesamaan nasib menumbuhkan solidaritas dan kesadaran untuk memperjuangkan kepentingan bersama."
+            },
+            {
+              "id": "D",
+              "text": "Pengaruh paham nasionalisme dan gerakan bangsa Asia",
+              "correct": true,
+              "feedback": "Perkembangan nasionalisme di Asia memberi inspirasi bagi pergerakan Indonesia."
+            }
+          ]
+        },
+        {
+          "id": "p4-q22",
+          "number": 22,
+          "topic": "Dampak jangka panjang Sumpah Pemuda",
+          "type": "mcma",
+          "stem": "Peristiwa 28 Oktober 1928 memberi pengaruh berkelanjutan. Pilih semua pernyataan yang benar.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Memperkuat identitas sebagai satu bangsa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat kesadaran bahwa masyarakat dari berbagai daerah merupakan satu bangsa."
+            },
+            {
+              "id": "B",
+              "text": "Mendorong penggunaan Bahasa Indonesia sebagai bahasa persatuan",
+              "correct": true,
+              "feedback": "Ikrar ketiga menegaskan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "C",
+              "text": "Memperkuat solidaritas lintas daerah dalam perjuangan kemerdekaan",
+              "correct": true,
+              "feedback": "Persatuan pemuda membantu memperkuat kerja sama lintas daerah dalam pergerakan nasional."
+            },
+            {
+              "id": "D",
+              "text": "Mendorong setiap organisasi kembali mengutamakan kepentingan daerah masing-masing",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru mengatasi sekat kedaerahan dan menegaskan orientasi nasional."
+            }
+          ]
+        },
+        {
+          "id": "p4-q23",
+          "number": 23,
+          "topic": "Dinamika organisasi pergerakan nasional",
+          "type": "mcma",
+          "stem": "Perhatikan variasi organisasi seperti Budi Utomo, Sarekat Islam, Indische Partij, Muhammadiyah, dan Taman Siswa. Pilih semua simpulan yang tepat.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perbedaan ideologi dapat memengaruhi dinamika internal organisasi",
+              "correct": true,
+              "feedback": "Perpecahan Sarekat Islam menunjukkan bahwa perbedaan ideologi dapat memengaruhi arah organisasi."
+            },
+            {
+              "id": "B",
+              "text": "Organisasi modern menjadi sarana perjuangan di luar perlawanan fisik kedaerahan",
+              "correct": true,
+              "feedback": "Organisasi merupakan bentuk perjuangan yang semakin terstruktur dan berorientasi nasional."
+            },
+            {
+              "id": "C",
+              "text": "Seluruh organisasi memiliki tujuan, ideologi, dan cara perjuangan yang sama persis",
+              "correct": false,
+              "feedback": "Organisasi pergerakan memiliki latar belakang, bidang, ideologi, dan strategi yang tidak selalu sama."
+            },
+            {
+              "id": "D",
+              "text": "Organisasi pergerakan memiliki bidang dan orientasi yang beragam",
+              "correct": true,
+              "feedback": "Ada organisasi yang menekankan pendidikan, ekonomi, agama, sosial, maupun politik kebangsaan."
+            }
+          ]
+        },
+        {
+          "id": "p4-q24",
+          "number": 24,
+          "topic": "Great Depression dan krisis sosial",
+          "type": "mcma",
+          "stem": "Perhatikan kondisi turunnya harga komoditas dan berkurangnya penerimaan negara. Pilih semua kesimpulan yang tepat.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kesempatan kerja, pendapatan, dan daya beli masyarakat menurun",
+              "correct": true,
+              "feedback": "Berkurangnya penerimaan negara dan aktivitas ekonomi berdampak pada pekerjaan, pendapatan, serta daya beli."
+            },
+            {
+              "id": "B",
+              "text": "Krisis tersebut otomatis memperkuat stabilitas kolonial karena pendapatan negara meningkat",
+              "correct": false,
+              "feedback": "Krisis mengurangi penerimaan dan memperburuk kondisi sosial-ekonomi, sehingga menambah tekanan terhadap pemerintahan kolonial."
+            },
+            {
+              "id": "C",
+              "text": "Harga komoditas ekspor dan permintaan pasar internasional mengalami penurunan",
+              "correct": true,
+              "feedback": "Materi menyebut turunnya harga pasar dan permintaan komoditas internasional sebagai dampak Great Depression."
+            },
+            {
+              "id": "D",
+              "text": "Usaha perkebunan perdagangan seperti gula dan karet mengalami kesulitan",
+              "correct": true,
+              "feedback": "Komoditas gula dan karet termasuk sektor yang terdampak krisis."
+            }
+          ]
+        },
+        {
+          "id": "p4-q25",
+          "number": 25,
+          "topic": "Makna historis Kapitulasi Kalijati",
+          "type": "mcma",
+          "stem": "Peristiwa penyerahan Belanda kepada Jepang perlu dipahami secara historis. Pilih semua makna yang sesuai.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Merupakan peristiwa Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi pada 1942 dan bukan proklamasi kemerdekaan Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Menandai berakhirnya pemerintahan kolonial Belanda di Hindia Belanda",
+              "correct": true,
+              "feedback": "Penyerahan pada 8 Maret 1942 mengakhiri kekuasaan kolonial Belanda di wilayah tersebut."
+            },
+            {
+              "id": "C",
+              "text": "Menandai dimulainya pendudukan Jepang di Indonesia",
+              "correct": true,
+              "feedback": "Setelah Belanda menyerah, kekuasaan beralih kepada Jepang dan dimulailah masa pendudukan Jepang."
+            },
+            {
+              "id": "D",
+              "text": "Menjadi babak baru dalam perjalanan sejarah menuju kemerdekaan Indonesia",
+              "correct": true,
+              "feedback": "Pergantian kekuasaan membuka fase sejarah baru yang kemudian berhubungan dengan proses menuju kemerdekaan."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Paket 05",
+      "questions": [
+        {
+          "id": "p5-q1",
+          "number": 1,
+          "topic": "Faktor eksternal pergerakan nasional",
+          "type": "pg",
+          "stem": "Jika diminta memilih peristiwa internasional yang menjadi inspirasi langsung bagi bangsa-bangsa Asia pada awal abad ke-20, jawaban paling tepat adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kemenangan Jepang atas Rusia pada 1905",
+              "correct": true,
+              "feedback": "Kemenangan Jepang atas Rusia menunjukkan bahwa bangsa Asia mampu mengalahkan kekuatan Eropa."
+            },
+            {
+              "id": "B",
+              "text": "Berdirinya Budi Utomo pada 1908",
+              "correct": false,
+              "feedback": "Budi Utomo merupakan perkembangan dari dalam Indonesia, sehingga termasuk faktor internal."
+            },
+            {
+              "id": "C",
+              "text": "Pelaksanaan Kongres Pemuda II pada 1928",
+              "correct": false,
+              "feedback": "Kongres Pemuda II merupakan bagian dari proses pergerakan di Indonesia, bukan pengaruh luar."
+            },
+            {
+              "id": "D",
+              "text": "Kapitulasi Kalijati pada 1942",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi jauh setelah awal kebangkitan nasional dan bukan faktor pendorong awal."
+            }
+          ]
+        },
+        {
+          "id": "p5-q2",
+          "number": 2,
+          "topic": "Nasionalisme India – ajaran Mahatma Gandhi",
+          "type": "pg",
+          "stem": "Rakyat India diminta tidak menggunakan kekerasan, melakukan hartal, menjalankan satyagraha, dan menerapkan swadeshi. Istilah pertama dari rangkaian tersebut adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hartal – Ahimsa – Swadeshi – Satyagraha",
+              "correct": false,
+              "feedback": "Urutan ini menukar makna istilah: Ahimsa adalah anti-kekerasan dan Hartal adalah pemogokan."
+            },
+            {
+              "id": "B",
+              "text": "Satyagraha – Swadeshi – Ahimsa – Hartal",
+              "correct": false,
+              "feedback": "Satyagraha bukan istilah untuk anti-kekerasan secara umum, sedangkan Swadeshi berkaitan dengan kemandirian produk."
+            },
+            {
+              "id": "C",
+              "text": "Swadeshi – Satyagraha – Hartal – Ahimsa",
+              "correct": false,
+              "feedback": "Swadeshi adalah gerakan memakai produk sendiri, bukan istilah pertama untuk prinsip anti-kekerasan."
+            },
+            {
+              "id": "D",
+              "text": "Ahimsa – Hartal – Satyagraha – Swadeshi",
+              "correct": true,
+              "feedback": "Ahimsa berarti anti-kekerasan; Hartal adalah pemogokan; Satyagraha menekankan keteguhan pada kebenaran dan non-kooperasi; Swadeshi mengutamakan produk sendiri."
+            }
+          ]
+        },
+        {
+          "id": "p5-q3",
+          "number": 3,
+          "topic": "Nasionalisme Tiongkok – San Min Chu I",
+          "type": "pg",
+          "stem": "Tokoh yang mengemukakan prinsip kebangsaan, demokrasi, dan kesejahteraan rakyat dalam San Min Chu I ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mustafa Kemal Pasha",
+              "correct": false,
+              "feedback": "Mustafa Kemal Pasha memimpin gerakan nasionalisme dan modernisasi Turki."
+            },
+            {
+              "id": "B",
+              "text": "Jose Rizal",
+              "correct": false,
+              "feedback": "Jose Rizal merupakan tokoh kebangkitan nasional Filipina."
+            },
+            {
+              "id": "C",
+              "text": "Sun Yat-sen",
+              "correct": true,
+              "feedback": "Sun Yat-sen dikenal sebagai tokoh nasionalis Tiongkok dan pencetus gagasan San Min Chu I."
+            },
+            {
+              "id": "D",
+              "text": "Mahatma Gandhi",
+              "correct": false,
+              "feedback": "Gandhi merupakan tokoh perjuangan kemerdekaan India."
+            }
+          ]
+        },
+        {
+          "id": "p5-q4",
+          "number": 4,
+          "topic": "Perubahan strategi perjuangan setelah 1908",
+          "type": "pg",
+          "stem": "Seorang siswa membandingkan dua masa perjuangan. Ciri yang paling mewakili periode sesudah 1908 ialah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perjuangan yang sepenuhnya mengandalkan kekuatan bangsawan",
+              "correct": false,
+              "feedback": "Sesudah 1908, golongan terpelajar dan organisasi modern semakin berperan."
+            },
+            {
+              "id": "B",
+              "text": "Perjuangan nasional melalui organisasi yang dipimpin kaum terpelajar",
+              "correct": true,
+              "feedback": "Sesudah 1908 perjuangan semakin nasional, dipimpin kaum terpelajar, dan dilakukan melalui organisasi."
+            },
+            {
+              "id": "C",
+              "text": "Perlawanan lokal yang dipimpin raja dengan peperangan",
+              "correct": false,
+              "feedback": "Ciri tersebut lebih menggambarkan perjuangan sebelum 1908."
+            },
+            {
+              "id": "D",
+              "text": "Perjuangan yang hanya berpusat di desa dan pedalaman",
+              "correct": false,
+              "feedback": "Pusat perjuangan sesudah 1908 semakin berkembang di kota-kota."
+            }
+          ]
+        },
+        {
+          "id": "p5-q5",
+          "number": 5,
+          "topic": "Budi Utomo dan Sarekat Islam",
+          "type": "pg",
+          "stem": "Seorang peneliti menemukan satu organisasi yang berawal dari kepentingan ekonomi pedagang dan kemudian berkembang menjadi gerakan massa. Organisasi tersebut berbeda dari Budi Utomo yang lebih menekankan ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Budi Utomo: pendidikan dan budaya; Sarekat Islam: ekonomi, sosial, dan politik",
+              "correct": true,
+              "feedback": "Budi Utomo berorientasi pada pendidikan dan kebudayaan, sedangkan Sarekat Islam berkembang dari kepentingan ekonomi dan meluas ke bidang sosial-politik."
+            },
+            {
+              "id": "B",
+              "text": "Budi Utomo: perjuangan bersenjata; Sarekat Islam: pendidikan Barat",
+              "correct": false,
+              "feedback": "Keduanya bukan organisasi yang dibedakan oleh pasangan orientasi tersebut."
+            },
+            {
+              "id": "C",
+              "text": "Budi Utomo: komunisme; Sarekat Islam: pendidikan perempuan",
+              "correct": false,
+              "feedback": "Pasangan ini tidak sesuai dengan orientasi utama kedua organisasi."
+            },
+            {
+              "id": "D",
+              "text": "Budi Utomo: diplomasi luar negeri; Sarekat Islam: gerakan militer",
+              "correct": false,
+              "feedback": "Keduanya berkembang sebagai organisasi pergerakan, bukan organisasi militer."
+            }
+          ]
+        },
+        {
+          "id": "p5-q6",
+          "number": 6,
+          "topic": "Klasifikasi organisasi pergerakan",
+          "type": "pg",
+          "stem": "Di antara pasangan berikut, manakah yang paling tepat menggambarkan organisasi pergerakan nasional?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Taman Siswa – gerakan militer; Muhammadiyah – perdagangan; Indische Partij – pendidikan pesantren",
+              "correct": false,
+              "feedback": "Ketiga bidang tersebut tidak sesuai dengan fokus utama organisasi yang disebutkan."
+            },
+            {
+              "id": "B",
+              "text": "NU – organisasi dagang; Sarekat Islam – sekolah nasional; Budi Utomo – partai komunis",
+              "correct": false,
+              "feedback": "Klasifikasi ini tidak sesuai dengan sejarah dan orientasi organisasi tersebut."
+            },
+            {
+              "id": "C",
+              "text": "Perhimpunan Indonesia – organisasi kerajaan; PKI – organisasi pendidikan; Budi Utomo – gerakan militer",
+              "correct": false,
+              "feedback": "Ketiga pasangan tersebut tidak menggambarkan karakter organisasi pergerakan."
+            },
+            {
+              "id": "D",
+              "text": "Taman Siswa – pendidikan nasional; Muhammadiyah – pembaruan Islam; Indische Partij – politik kebangsaan",
+              "correct": true,
+              "feedback": "Taman Siswa bergerak dalam pendidikan, Muhammadiyah dalam pembaruan sosial-keagamaan, dan Indische Partij dalam politik kebangsaan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q7",
+          "number": 7,
+          "topic": "Makna berdirinya Budi Utomo",
+          "type": "pg",
+          "stem": "Penetapan 20 Mei sebagai Hari Kebangkitan Nasional berkaitan dengan lahirnya organisasi ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai berakhirnya seluruh pemerintahan kolonial Belanda",
+              "correct": false,
+              "feedback": "Kekuasaan kolonial Belanda berakhir pada 1942 setelah menyerah kepada Jepang."
+            },
+            {
+              "id": "B",
+              "text": "Menandai dimulainya perjuangan bersenjata di seluruh wilayah Indonesia",
+              "correct": false,
+              "feedback": "Budi Utomo justru menjadi tonggak pergerakan melalui organisasi, bukan awal perang serentak."
+            },
+            {
+              "id": "C",
+              "text": "Menjadi tonggak berkembangnya organisasi modern yang membangkitkan kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Budi Utomo menjadi simbol awal kebangkitan melalui organisasi modern dan kesadaran yang lebih terorganisasi."
+            },
+            {
+              "id": "D",
+              "text": "Menandai proklamasi kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Proklamasi kemerdekaan berlangsung pada 17 Agustus 1945."
+            }
+          ]
+        },
+        {
+          "id": "p5-q8",
+          "number": 8,
+          "topic": "Tiga Serangkai – Indische Partij",
+          "type": "pg",
+          "stem": "Kelompok Tiga Serangkai dalam pergerakan nasional terdiri atas ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sutomo, Wahidin Sudirohusodo, dan Gunawan Mangunkusumo",
+              "correct": false,
+              "feedback": "Tokoh-tokoh tersebut berkaitan dengan lingkungan Budi Utomo, bukan Tiga Serangkai."
+            },
+            {
+              "id": "B",
+              "text": "E.F.E. Douwes Dekker, dr. Cipto Mangunkusumo, dan Suwardi Suryaningrat",
+              "correct": true,
+              "feedback": "Tiga Serangkai terdiri atas Douwes Dekker, Cipto Mangunkusumo, dan Suwardi Suryaningrat."
+            },
+            {
+              "id": "C",
+              "text": "Soekarno, Mohammad Hatta, dan Sutan Sjahrir",
+              "correct": false,
+              "feedback": "Ketiganya merupakan tokoh penting pada periode berikutnya, bukan Tiga Serangkai pendiri Indische Partij."
+            },
+            {
+              "id": "D",
+              "text": "Ki Bagus Hadikusumo, Ahmad Dahlan, dan Hasyim Asy'ari",
+              "correct": false,
+              "feedback": "Nama-nama tersebut berkaitan dengan perkembangan organisasi Islam, bukan pendiri Indische Partij."
+            }
+          ]
+        },
+        {
+          "id": "p5-q9",
+          "number": 9,
+          "topic": "Perkembangan Sarekat Islam",
+          "type": "pg",
+          "stem": "Di samping kepentingan ekonomi, faktor yang memperluas dukungan terhadap Sarekat Islam adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Identitas Islam yang menyatukan anggota serta perhatian pada kepentingan ekonomi rakyat",
+              "correct": true,
+              "feedback": "Identitas keislaman menjadi pemersatu, sementara kepentingan ekonomi membuat organisasi dekat dengan kebutuhan masyarakat."
+            },
+            {
+              "id": "B",
+              "text": "Keanggotaan yang hanya terbatas pada bangsawan Jawa",
+              "correct": false,
+              "feedback": "Sarekat Islam justru berkembang sebagai organisasi dengan dukungan massa yang luas."
+            },
+            {
+              "id": "C",
+              "text": "Kewajiban mengikuti pendidikan militer kolonial",
+              "correct": false,
+              "feedback": "Pendidikan militer kolonial bukan faktor utama perluasan dukungan Sarekat Islam."
+            },
+            {
+              "id": "D",
+              "text": "Dukungan penuh pemerintah kolonial terhadap kemerdekaan Indonesia",
+              "correct": false,
+              "feedback": "Sarekat Islam berkembang dalam situasi kolonial dan bukan karena dukungan pemerintah untuk kemerdekaan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q10",
+          "number": 10,
+          "topic": "Perpecahan Sarekat Islam",
+          "type": "pg",
+          "stem": "Perpecahan Sarekat Islam memperlihatkan bahwa organisasi pergerakan dapat mengalami konflik karena ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Perselisihan tentang penggunaan bahasa daerah dalam kongres",
+              "correct": false,
+              "feedback": "Perbedaan bahasa bukan penyebab utama perpecahan SI Putih dan SI Merah."
+            },
+            {
+              "id": "B",
+              "text": "Perbedaan pendapat mengenai lokasi ibu kota Republik Indonesia",
+              "correct": false,
+              "feedback": "Persoalan ibu kota Republik Indonesia tidak menjadi pemicu perpecahan Sarekat Islam."
+            },
+            {
+              "id": "C",
+              "text": "Persaingan untuk menguasai perdagangan rempah di Maluku",
+              "correct": false,
+              "feedback": "Persaingan perdagangan rempah bukan faktor utama perpecahan internal Sarekat Islam."
+            },
+            {
+              "id": "D",
+              "text": "Perbedaan ideologi dan pengaruh sosialisme-komunisme dalam organisasi",
+              "correct": true,
+              "feedback": "Perbedaan orientasi ideologi memisahkan kelompok yang mempertahankan garis Islam dengan kelompok yang dipengaruhi sosialisme-komunisme."
+            }
+          ]
+        },
+        {
+          "id": "p5-q11",
+          "number": 11,
+          "topic": "Muhammadiyah dan Nahdlatul Ulama",
+          "type": "pg",
+          "stem": "Pasangan fokus gerakan kedua organisasi Islam tersebut adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Muhammadiyah berfokus pada nasionalisme Tiongkok; NU pada nasionalisme India",
+              "correct": false,
+              "feedback": "Keduanya merupakan organisasi Islam di Indonesia."
+            },
+            {
+              "id": "B",
+              "text": "Muhammadiyah menolak pendidikan; NU hanya bergerak dalam politik luar negeri",
+              "correct": false,
+              "feedback": "Keduanya berperan dalam kehidupan sosial dan pendidikan umat."
+            },
+            {
+              "id": "C",
+              "text": "Muhammadiyah menekankan pembaruan pendidikan dan sosial; NU menjaga tradisi keilmuan pesantren dan Aswaja",
+              "correct": true,
+              "feedback": "Muhammadiyah dikenal dengan pembaruan pendidikan dan sosial-keagamaan, sedangkan NU berakar kuat pada tradisi ulama dan pesantren."
+            },
+            {
+              "id": "D",
+              "text": "Muhammadiyah bergerak dalam militer; NU bergerak dalam perdagangan internasional",
+              "correct": false,
+              "feedback": "Kedua organisasi bukan organisasi militer atau perdagangan internasional."
+            }
+          ]
+        },
+        {
+          "id": "p5-q12",
+          "number": 12,
+          "topic": "Perkembangan gerakan pemuda 1915–1928",
+          "type": "pg",
+          "stem": "Manakah pernyataan yang paling tepat membedakan gerakan pemuda periode awal dan menjelang 1928?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Dari perjuangan pendidikan menuju dukungan terhadap kolonialisme",
+              "correct": false,
+              "feedback": "Gerakan pemuda semakin menegaskan kesadaran kebangsaan, bukan mendukung kolonialisme."
+            },
+            {
+              "id": "B",
+              "text": "Dari identitas kedaerahan menuju persatuan dan identitas nasional Indonesia",
+              "correct": true,
+              "feedback": "Gerakan pemuda berkembang dari organisasi bercorak daerah menuju orientasi kebangsaan dan persatuan Indonesia."
+            },
+            {
+              "id": "C",
+              "text": "Dari persatuan nasional menuju pemisahan berdasarkan daerah",
+              "correct": false,
+              "feedback": "Arah perkembangan justru bergerak menuju persatuan nasional."
+            },
+            {
+              "id": "D",
+              "text": "Dari organisasi modern menuju perlawanan kerajaan",
+              "correct": false,
+              "feedback": "Gerakan pemuda berkembang melalui organisasi dan kongres, bukan kembali ke pola kerajaan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q13",
+          "number": 13,
+          "topic": "Isi ikrar Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Pokok ketiga Sumpah Pemuda menegaskan bahasa persatuan, yaitu ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Satu tanah air Indonesia, satu bangsa Indonesia, dan menjunjung bahasa persatuan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda menegaskan tanah air Indonesia, bangsa Indonesia, dan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Satu kerajaan, satu agama resmi, dan satu bahasa daerah",
+              "correct": false,
+              "feedback": "Rumusan Sumpah Pemuda tidak berbicara tentang pembentukan kerajaan atau penetapan agama resmi."
+            },
+            {
+              "id": "C",
+              "text": "Satu pulau, satu suku, dan satu pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Ikrar tersebut menekankan identitas nasional Indonesia, bukan kesatuan satu pulau atau suku."
+            },
+            {
+              "id": "D",
+              "text": "Satu wilayah Jawa, satu bangsa daerah, dan bahasa Belanda",
+              "correct": false,
+              "feedback": "Sumpah Pemuda menegaskan Indonesia sebagai tanah air dan bangsa serta Bahasa Indonesia sebagai bahasa persatuan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q14",
+          "number": 14,
+          "topic": "Kongres Pemuda I – Muhammad Yamin",
+          "type": "pg",
+          "stem": "Siapakah tokoh yang menyampaikan gagasan persatuan melalui pembahasan bahasa dan kesusastraan Indonesia pada Kongres Pemuda I?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Soegondo Djojopoespito",
+              "correct": false,
+              "feedback": "Soegondo dikenal sebagai ketua PPPI dan Kongres Pemuda II."
+            },
+            {
+              "id": "B",
+              "text": "M. Tabrani",
+              "correct": false,
+              "feedback": "M. Tabrani memimpin komite penyelenggara yang merencanakan Kongres Pemuda I."
+            },
+            {
+              "id": "C",
+              "text": "Bahder Djohan",
+              "correct": false,
+              "feedback": "Bahder Djohan membahas kedudukan wanita dalam masyarakat Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Muhammad Yamin",
+              "correct": true,
+              "feedback": "Muhammad Yamin membawakan pembahasan tentang kemungkinan perkembangan bahasa-bahasa dan kesusastraan Indonesia di masa mendatang."
+            }
+          ]
+        },
+        {
+          "id": "p5-q15",
+          "number": 15,
+          "topic": "Arti penting Sumpah Pemuda",
+          "type": "pg",
+          "stem": "Peristiwa 28 Oktober 1928 penting bagi nasionalisme Indonesia karena ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menetapkan Indonesia langsung menjadi negara merdeka",
+              "correct": false,
+              "feedback": "Kemerdekaan Indonesia baru diproklamasikan pada 17 Agustus 1945."
+            },
+            {
+              "id": "B",
+              "text": "Mengembalikan perjuangan ke kelompok kerajaan dan daerah",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru memperkuat orientasi nasional melampaui identitas kedaerahan."
+            },
+            {
+              "id": "C",
+              "text": "Memperkuat identitas nasional, persatuan, dan penggunaan Bahasa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat identitas kebangsaan dan solidaritas lintas daerah serta menegaskan bahasa persatuan."
+            },
+            {
+              "id": "D",
+              "text": "Menghapus seluruh organisasi pemuda dan melarang kegiatan pendidikan",
+              "correct": false,
+              "feedback": "Sumpah Pemuda mendorong persatuan, bukan menghapus aktivitas organisasi dan pendidikan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q16",
+          "number": 16,
+          "topic": "Peran pers pada masa pergerakan",
+          "type": "pg",
+          "stem": "Peran pers dalam pergerakan nasional dapat dilihat dari kemampuannya untuk ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menjadi alat utama untuk mengatur perdagangan rempah",
+              "correct": false,
+              "feedback": "Fungsi pers yang dibahas dalam pergerakan nasional berkaitan dengan informasi dan kesadaran kebangsaan."
+            },
+            {
+              "id": "B",
+              "text": "Menyebarkan gagasan kebangsaan, mengkritik kolonialisme, dan membangun kesadaran masyarakat",
+              "correct": true,
+              "feedback": "Pers menjadi sarana komunikasi, pendidikan politik, kritik kolonial, dan penyebaran gagasan nasionalisme."
+            },
+            {
+              "id": "C",
+              "text": "Menggantikan seluruh organisasi pergerakan dengan pemerintahan kolonial",
+              "correct": false,
+              "feedback": "Pers mendukung perkembangan kesadaran dan mobilisasi pergerakan, bukan menggantikannya dengan pemerintahan kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Membatasi informasi agar masyarakat tidak mengetahui kondisi politik",
+              "correct": false,
+              "feedback": "Pers pergerakan justru memperluas informasi dan wawasan masyarakat."
+            }
+          ]
+        },
+        {
+          "id": "p5-q17",
+          "number": 17,
+          "topic": "Surat kabar De Express",
+          "type": "pg",
+          "stem": "Manakah nama surat kabar yang sesuai dengan ciri dalam kisi-kisi: surat kabar radikal masa pergerakan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "De Express",
+              "correct": true,
+              "feedback": "De Express dikenal sebagai surat kabar radikal yang berkaitan dengan lingkungan Indische Partij dan mendapat perhatian pemerintah kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Bintang Hindia",
+              "correct": false,
+              "feedback": "Bintang Hindia merupakan surat kabar yang disebut dalam perkembangan pers, tetapi bukan jawaban indikator ini."
+            },
+            {
+              "id": "C",
+              "text": "Pewarta Prijaji",
+              "correct": false,
+              "feedback": "Pewarta Prijaji merupakan salah satu penerbitan bumiputra, bukan surat kabar yang dimaksud."
+            },
+            {
+              "id": "D",
+              "text": "Sinar Djawa",
+              "correct": false,
+              "feedback": "Sinar Djawa berperan menyebarkan gagasan pendidikan dan pergerakan, tetapi bukan nama surat kabar yang dimaksud pada indikator ini."
+            }
+          ]
+        },
+        {
+          "id": "p5-q18",
+          "number": 18,
+          "topic": "Fungsi pers dalam pergerakan nasional",
+          "type": "pg",
+          "stem": "Fungsi pers yang mendukung nasionalisme Indonesia ditunjukkan oleh ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Membatasi pendidikan, menghapus organisasi, dan memperkuat sensor masyarakat",
+              "correct": false,
+              "feedback": "Tindakan tersebut bertentangan dengan fungsi pers sebagai penyebar informasi dan gagasan."
+            },
+            {
+              "id": "B",
+              "text": "Menggantikan kongres pemuda, membentuk tentara, dan mengatur pajak",
+              "correct": false,
+              "feedback": "Pers bukan lembaga kongres, militer, atau pemungut pajak."
+            },
+            {
+              "id": "C",
+              "text": "Mendukung monopoli kolonial, menutup diskusi, dan menghilangkan berita",
+              "correct": false,
+              "feedback": "Pers pergerakan justru digunakan untuk mengkritik ketidakadilan kolonial."
+            },
+            {
+              "id": "D",
+              "text": "Menyebarkan informasi, menyampaikan kritik, dan memobilisasi kesadaran kebangsaan",
+              "correct": true,
+              "feedback": "Ketiga fungsi tersebut sesuai dengan peran pers sebagai media informasi, kritik, dan mobilisasi pergerakan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q19",
+          "number": 19,
+          "topic": "Wabah penyakit awal abad ke-20",
+          "type": "pg",
+          "stem": "Selain Flu Spanyol pada 1918–1919, wabah besar yang berlangsung di Jawa selama 1910–1936 adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Malaria pada 1960–1970",
+              "correct": false,
+              "feedback": "Periode tersebut berada di luar rentang wabah yang ditanyakan."
+            },
+            {
+              "id": "B",
+              "text": "Cacar pada 1880–1890",
+              "correct": false,
+              "feedback": "Periode tersebut tidak sesuai dengan data wabah pes 1910–1936 dalam materi."
+            },
+            {
+              "id": "C",
+              "text": "Pes",
+              "correct": true,
+              "feedback": "Materi menyebut wabah pes di Pulau Jawa sepanjang 1910–1936 yang menyebabkan puluhan ribu korban jiwa."
+            },
+            {
+              "id": "D",
+              "text": "Kolera pada 1945–1949",
+              "correct": false,
+              "feedback": "Rentang waktu dan penyakit tersebut tidak sesuai dengan indikator wabah 1910–1936."
+            }
+          ]
+        },
+        {
+          "id": "p5-q20",
+          "number": 20,
+          "topic": "Akhir kekuasaan kolonial Belanda",
+          "type": "pg",
+          "stem": "Nama peristiwa yang berkaitan dengan penandatanganan penyerahan Belanda di Kalijati adalah ...",
+          "options": [
+            {
+              "id": "A",
+              "text": "Konferensi Meja Bundar",
+              "correct": false,
+              "feedback": "Konferensi Meja Bundar berlangsung pada 1949 dan berkaitan dengan pengakuan kedaulatan."
+            },
+            {
+              "id": "B",
+              "text": "Kapitulasi Kalijati",
+              "correct": true,
+              "feedback": "Kapitulasi Kalijati ditandatangani pada 8 Maret 1942 dan menandai berakhirnya kekuasaan kolonial Belanda serta dimulainya pendudukan Jepang."
+            },
+            {
+              "id": "C",
+              "text": "Perjanjian Renville",
+              "correct": false,
+              "feedback": "Perjanjian Renville berlangsung pada masa revolusi kemerdekaan Indonesia setelah 1945."
+            },
+            {
+              "id": "D",
+              "text": "Perjanjian Linggarjati",
+              "correct": false,
+              "feedback": "Perjanjian Linggarjati merupakan perundingan Indonesia-Belanda setelah proklamasi kemerdekaan."
+            }
+          ]
+        },
+        {
+          "id": "p5-q21",
+          "number": 21,
+          "topic": "Faktor perubahan strategi perjuangan",
+          "type": "mcma",
+          "stem": "Perubahan strategi perjuangan tidak terjadi secara tiba-tiba. Pilih semua faktor pendorong yang sesuai dengan materi.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Munculnya golongan terpelajar akibat perkembangan pendidikan",
+              "correct": true,
+              "feedback": "Pendidikan melahirkan kaum terpelajar yang mampu mengembangkan gagasan dan organisasi modern."
+            },
+            {
+              "id": "B",
+              "text": "Pengalaman senasib akibat imperialisme dan kolonialisme",
+              "correct": true,
+              "feedback": "Kesamaan nasib menumbuhkan solidaritas dan kesadaran untuk memperjuangkan kepentingan bersama."
+            },
+            {
+              "id": "C",
+              "text": "Pengaruh paham nasionalisme dan gerakan bangsa Asia",
+              "correct": true,
+              "feedback": "Perkembangan nasionalisme di Asia memberi inspirasi bagi pergerakan Indonesia."
+            },
+            {
+              "id": "D",
+              "text": "Keinginan untuk kembali membatasi perjuangan pada wilayah kerajaan",
+              "correct": false,
+              "feedback": "Perubahan strategi justru bergerak melampaui perjuangan kedaerahan menuju organisasi dan orientasi nasional."
+            }
+          ]
+        },
+        {
+          "id": "p5-q22",
+          "number": 22,
+          "topic": "Dampak jangka panjang Sumpah Pemuda",
+          "type": "mcma",
+          "stem": "Pilih semua pernyataan yang menunjukkan kontribusi Sumpah Pemuda bagi persatuan Indonesia.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mendorong penggunaan Bahasa Indonesia sebagai bahasa persatuan",
+              "correct": true,
+              "feedback": "Ikrar ketiga menegaskan Bahasa Indonesia sebagai bahasa persatuan."
+            },
+            {
+              "id": "B",
+              "text": "Memperkuat solidaritas lintas daerah dalam perjuangan kemerdekaan",
+              "correct": true,
+              "feedback": "Persatuan pemuda membantu memperkuat kerja sama lintas daerah dalam pergerakan nasional."
+            },
+            {
+              "id": "C",
+              "text": "Mendorong setiap organisasi kembali mengutamakan kepentingan daerah masing-masing",
+              "correct": false,
+              "feedback": "Sumpah Pemuda justru mengatasi sekat kedaerahan dan menegaskan orientasi nasional."
+            },
+            {
+              "id": "D",
+              "text": "Memperkuat identitas sebagai satu bangsa Indonesia",
+              "correct": true,
+              "feedback": "Sumpah Pemuda memperkuat kesadaran bahwa masyarakat dari berbagai daerah merupakan satu bangsa."
+            }
+          ]
+        },
+        {
+          "id": "p5-q23",
+          "number": 23,
+          "topic": "Dinamika organisasi pergerakan nasional",
+          "type": "mcma",
+          "stem": "Pilih semua karakteristik yang menunjukkan keragaman organisasi pergerakan nasional.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Organisasi modern menjadi sarana perjuangan di luar perlawanan fisik kedaerahan",
+              "correct": true,
+              "feedback": "Organisasi merupakan bentuk perjuangan yang semakin terstruktur dan berorientasi nasional."
+            },
+            {
+              "id": "B",
+              "text": "Seluruh organisasi memiliki tujuan, ideologi, dan cara perjuangan yang sama persis",
+              "correct": false,
+              "feedback": "Organisasi pergerakan memiliki latar belakang, bidang, ideologi, dan strategi yang tidak selalu sama."
+            },
+            {
+              "id": "C",
+              "text": "Organisasi pergerakan memiliki bidang dan orientasi yang beragam",
+              "correct": true,
+              "feedback": "Ada organisasi yang menekankan pendidikan, ekonomi, agama, sosial, maupun politik kebangsaan."
+            },
+            {
+              "id": "D",
+              "text": "Perbedaan ideologi dapat memengaruhi dinamika internal organisasi",
+              "correct": true,
+              "feedback": "Perpecahan Sarekat Islam menunjukkan bahwa perbedaan ideologi dapat memengaruhi arah organisasi."
+            }
+          ]
+        },
+        {
+          "id": "p5-q24",
+          "number": 24,
+          "topic": "Great Depression dan krisis sosial",
+          "type": "mcma",
+          "stem": "Pilih semua pernyataan yang menunjukkan hubungan krisis ekonomi dan meningkatnya persoalan sosial di Hindia Belanda.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Krisis tersebut otomatis memperkuat stabilitas kolonial karena pendapatan negara meningkat",
+              "correct": false,
+              "feedback": "Krisis mengurangi penerimaan dan memperburuk kondisi sosial-ekonomi, sehingga menambah tekanan terhadap pemerintahan kolonial."
+            },
+            {
+              "id": "B",
+              "text": "Harga komoditas ekspor dan permintaan pasar internasional mengalami penurunan",
+              "correct": true,
+              "feedback": "Materi menyebut turunnya harga pasar dan permintaan komoditas internasional sebagai dampak Great Depression."
+            },
+            {
+              "id": "C",
+              "text": "Usaha perkebunan perdagangan seperti gula dan karet mengalami kesulitan",
+              "correct": true,
+              "feedback": "Komoditas gula dan karet termasuk sektor yang terdampak krisis."
+            },
+            {
+              "id": "D",
+              "text": "Kesempatan kerja, pendapatan, dan daya beli masyarakat menurun",
+              "correct": true,
+              "feedback": "Berkurangnya penerimaan negara dan aktivitas ekonomi berdampak pada pekerjaan, pendapatan, serta daya beli."
+            }
+          ]
+        },
+        {
+          "id": "p5-q25",
+          "number": 25,
+          "topic": "Makna historis Kapitulasi Kalijati",
+          "type": "mcma",
+          "stem": "Pilih semua pernyataan yang menunjukkan dampak langsung Kapitulasi Kalijati.",
+          "options": [
+            {
+              "id": "A",
+              "text": "Menandai berakhirnya pemerintahan kolonial Belanda di Hindia Belanda",
+              "correct": true,
+              "feedback": "Penyerahan pada 8 Maret 1942 mengakhiri kekuasaan kolonial Belanda di wilayah tersebut."
+            },
+            {
+              "id": "B",
+              "text": "Menandai dimulainya pendudukan Jepang di Indonesia",
+              "correct": true,
+              "feedback": "Setelah Belanda menyerah, kekuasaan beralih kepada Jepang dan dimulailah masa pendudukan Jepang."
+            },
+            {
+              "id": "C",
+              "text": "Menjadi babak baru dalam perjalanan sejarah menuju kemerdekaan Indonesia",
+              "correct": true,
+              "feedback": "Pergantian kekuasaan membuka fase sejarah baru yang kemudian berhubungan dengan proses menuju kemerdekaan."
+            },
+            {
+              "id": "D",
+              "text": "Merupakan peristiwa Proklamasi Kemerdekaan Indonesia pada 17 Agustus 1945",
+              "correct": false,
+              "feedback": "Kapitulasi Kalijati terjadi pada 1942 dan bukan proklamasi kemerdekaan Indonesia."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

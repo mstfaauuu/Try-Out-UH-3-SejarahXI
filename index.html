@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#304C89">
+  <meta name="description" content="Try Out UH-3 Sejarah — Pergerakan Nasional Indonesia dan Sumpah Pemuda.">
+  <title>Try Out UH-3 Sejarah</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grain"></div>
+  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <header class="topbar">
+    <a class="brand" href="#" id="brandHome" aria-label="Beranda">
+      <span class="brand-mark">TH</span><span><b>TRY OUT</b><small>UH—03 · SEJARAH</small></span>
+    </a>
+    <div class="top-meta"><span class="live-dot"></span><span>RUANG LATIHAN AKADEMIK</span><span class="top-divider"></span><span id="todayLabel">INDONESIA</span></div>
+    <button class="icon-btn" id="resetAll" title="Atur ulang progres" aria-label="Atur ulang progres">↺</button>
+  </header>
+
+  <main id="app">
+    <section class="view active" id="homeView">
+      <div class="hero">
+        <div class="hero-copy">
+          <div class="eyebrow"><span class="eyebrow-line"></span> SEJARAH INDONESIA · KELAS XI</div>
+          <h1>Memahami masa lalu.<br><em>Membaca arah bangsa.</em></h1>
+          <p class="hero-desc">Ruang persiapan UH-3 yang disusun mengikuti kisi-kisi pembelajaran: Pergerakan Nasional Indonesia, Sumpah Pemuda, hingga berakhirnya kekuasaan kolonial Belanda.</p>
+          <div class="hero-actions">
+            <button class="primary-btn" id="exploreBtn">Pilih paket <span>↗</span></button>
+            <span class="micro-note">125 BUTIR · 5 PAKET · 25 INDIKATOR</span>
+          </div>
+        </div>
+        <div class="hero-art">
+          <div class="art-orbit orbit-one"></div><div class="art-orbit orbit-two"></div>
+          <div class="archive-card">
+            <div class="archive-top"><span>ARSIP PEMBELAJARAN</span><span>1928 / 01</span></div>
+            <div class="archive-symbol">28<span>OCT</span></div>
+            <div class="archive-rule"></div>
+            <div class="archive-caption">SATU NUSA<br>SATU BANGSA<br>SATU BAHASA</div>
+            <div class="archive-foot"><span>CATATAN SEJARAH</span><span>INDONESIA</span></div>
+          </div>
+          <div class="floating-stamp">EDISI<br><b>03</b></div>
+          <div class="hero-index">FIG. 01 — THE NATIONAL MOVEMENT</div>
+        </div>
+      </div>
+
+      <div class="stats-strip">
+        <div><span class="stat-num">05</span><span class="stat-label">PAKET LATIHAN</span></div>
+        <div><span class="stat-num">100</span><span class="stat-label">PILIHAN GANDA</span></div>
+        <div><span class="stat-num">25</span><span class="stat-label">PG KOMPLEKS</span></div>
+        <div><span class="stat-num">25</span><span class="stat-label">INDIKATOR KISI-KISI</span></div>
+      </div>
+
+      <section class="section-block" id="packages">
+        <div class="section-heading">
+          <div><div class="eyebrow"><span class="eyebrow-line"></span> PILIH RUANG LATIHAN</div><h2>Daftar paket</h2></div>
+          <p>Kerjakan sesuai ritmemu. Progres setiap paket tersimpan otomatis di perangkat ini.</p>
+        </div>
+        <div class="package-grid" id="packageGrid"></div>
+      </section>
+
+      <section class="lower-grid">
+        <div class="note-panel">
+          <div class="eyebrow">PANDUAN PENGERJAAN</div>
+          <h3>Ruang yang tenang<br>untuk berpikir jernih.</h3>
+          <div class="guide-row"><span>01</span><p>Setiap paket berisi 25 soal. Satu soal tampil pada satu waktu.</p></div>
+          <div class="guide-row"><span>02</span><p>Nomor 1–20 berupa pilihan ganda. Nomor 21–25 berupa pilihan ganda kompleks.</p></div>
+          <div class="guide-row"><span>03</span><p>Evaluasi singkat muncul setiap 10 soal, disertai pembahasan setelah jawaban dikirim.</p></div>
+        </div>
+        <div class="progress-panel">
+          <div class="eyebrow">REKAM JEJAK</div>
+          <h3>Progres latihan</h3>
+          <div class="overall-number" id="overallPercent">0<span>%</span></div>
+          <div class="progress-track"><i id="overallBar"></i></div>
+          <div class="progress-caption"><span id="overallDone">0 dari 125 soal terjawab</span><span id="packageDone">0/5 paket selesai</span></div>
+          <div class="mini-bars" id="miniBars"></div>
+        </div>
+      </section>
+    </section>
+
+    <section class="view" id="quizView">
+      <div class="quiz-topline">
+        <button class="back-link" id="backHome">← Kembali ke paket</button>
+        <div class="quiz-meta"><span id="quizPackageName">PAKET 01</span><span class="meta-dot"></span><span id="quizTypeMeta">LATIHAN SEJARAH</span></div>
+      </div>
+      <div class="quiz-layout">
+        <aside class="question-rail">
+          <div class="rail-head"><span>NAVIGASI SOAL</span><span id="railCount">01 / 25</span></div>
+          <div class="rail-progress"><i id="railProgress"></i></div>
+          <div class="question-map" id="questionMap"></div>
+          <div class="rail-legend"><span><i class="legend-current"></i> Aktif</span><span><i class="legend-done"></i> Terjawab</span></div>
+          <div class="rail-bottom"><span>UH—03 / SEJARAH</span><span>2026</span></div>
+        </aside>
+        <section class="question-stage">
+          <div class="question-head">
+            <div><div class="eyebrow"><span class="eyebrow-line"></span><span id="questionTopic">MATERI</span></div><div class="question-count">PERTANYAAN <b id="questionNumber">01</b><span> / 25</span></div></div>
+            <div class="type-pill" id="typePill">PILIHAN GANDA</div>
+          </div>
+          <div class="question-card" id="questionCard">
+            <div class="question-kicker">BACA SOAL DENGAN CERMAT</div>
+            <h2 id="questionText"></h2>
+            <p class="select-hint" id="selectHint">Pilih satu jawaban yang paling tepat.</p>
+            <div class="options-list" id="optionsList"></div>
+            <div class="answer-feedback" id="answerFeedback" hidden></div>
+            <div class="question-footer">
+              <span id="answeredStatus">BELUM DIJAWAB</span>
+              <div class="footer-actions">
+                <button class="secondary-btn" id="prevQuestion">Sebelumnya</button>
+                <button class="primary-btn" id="submitAnswer">Periksa jawaban <span>↗</span></button>
+                <button class="primary-btn" id="nextQuestion" hidden>Berikutnya <span>→</span></button>
+              </div>
+            </div>
+          </div>
+          <div class="stage-foot"><span>TRY OUT UH-3 SEJARAH</span><span>PERGERAKAN NASIONAL · SUMPAH PEMUDA</span></div>
+        </section>
+      </div>
+    </section>
+
+    <section class="view" id="resultView">
+      <div class="result-wrap">
+        <button class="back-link" id="resultHome">← Kembali ke dashboard</button>
+        <div class="result-hero">
+          <div class="eyebrow"><span class="eyebrow-line"></span> HASIL PENGERJAAN</div>
+          <div class="result-title"><h1 id="resultTitle">Paket 01</h1><div class="result-score" id="resultScore">0</div></div>
+          <p id="resultMessage">Hasil latihanmu telah tercatat.</p>
+        </div>
+        <div class="result-stats">
+          <div><span id="correctCount">0</span><small>BENAR</small></div>
+          <div><span id="wrongCount">0</span><small>KURANG TEPAT</small></div>
+          <div><span id="accuracyCount">0%</span><small>AKURASI</small></div>
+          <div><span id="answeredCount">25/25</span><small>SOAL SELESAI</small></div>
+        </div>
+        <div class="result-columns">
+          <div class="result-review">
+            <div class="section-heading compact"><div><div class="eyebrow">TINJAUAN JAWABAN</div><h2>Catatan hasil</h2></div></div>
+            <div id="reviewList"></div>
+          </div>
+          <div class="result-side">
+            <div class="result-side-card"><div class="eyebrow">LANGKAH SELANJUTNYA</div><h3>Perkuat bagian<br>yang belum mantap.</h3><p>Baca kembali pembahasan tiap nomor, lalu lanjutkan ke paket berikutnya untuk menguji pemahaman.</p><button class="primary-btn" id="nextPackage">Paket berikutnya <span>↗</span></button><button class="text-btn" id="repeatPackage">Ulangi paket ini</button></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal-backdrop" id="checkpointModal" hidden>
+    <div class="checkpoint-modal">
+      <button class="modal-close" id="closeCheckpoint">×</button>
+      <div class="eyebrow">EVALUASI BERKALA</div>
+      <div class="checkpoint-number" id="checkpointNumber">10</div>
+      <h2>Berhenti sejenak.<br>Periksa pemahamanmu.</h2>
+      <p id="checkpointText">Kamu telah menyelesaikan sepuluh soal pertama.</p>
+      <div class="checkpoint-actions"><button class="primary-btn" id="continueCheckpoint">Lanjutkan pengerjaan <span>→</span></button></div>
+    </div>
+  </div>
+
+
+  <div class="integrity-backdrop" id="integrityWarning" hidden role="alertdialog" aria-modal="true" aria-labelledby="integrityTitle">
+    <div class="integrity-modal">
+      <div class="integrity-mark">!</div>
+      <div class="eyebrow">PERINGATAN SISTEM UJIAN</div>
+      <h2 id="integrityTitle">Perpindahan tab terdeteksi.</h2>
+      <p id="integrityMessage">Kamu terdeteksi meninggalkan halaman ujian. Tetap fokus dan kerjakan ujian pada halaman ini.</p>
+      <div class="integrity-count"><span>JUMLAH PELANGGARAN</span><strong id="violationCount">01</strong></div>
+      <p class="integrity-note">Suara peringatan akan diputar lima kali. Tekan tombol di bawah untuk melanjutkan dan mengaktifkan kembali mode layar penuh.</p>
+      <div class="integrity-actions">
+        <button class="primary-btn" id="resumeExam">Saya mengerti — lanjutkan <span>→</span></button>
+        <button class="text-btn integrity-replay" id="replayAlert">Putar ulang audio peringatan</button>
+      </div>
+    </div>
+  </div>
+  <audio id="alertAudio" src="allert.mpeg" preload="auto"></audio>
+  <div class="toast" id="toast"></div>
+  <footer class="site-footer"><span>TRY OUT UH—03 SEJARAH</span><span>ARSIP BELAJAR · INDONESIA</span><span>BUILT FOR FOCUSED LEARNING</span></footer>
+  <script src="app.js"></script>
+</body>
+</html>
